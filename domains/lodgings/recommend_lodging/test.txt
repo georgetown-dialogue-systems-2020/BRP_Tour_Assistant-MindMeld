@@ -1,0 +1,28 @@
+recommend me some hotels
+recommend me some hotels along the parkway
+recommend me some hotels along the pkwy
+recommend some hotels
+recommend some hotels along the parkway
+recommend some hotels along the pkwy
+could you please recommend any hotels?
+could you please recommend any hotels along the parkway?
+could you please recommend any hotels along the pkwy?
+could you please recommend me any hotels?
+could you please recommend me any hotels along the parkway?
+could you please recommend me any hotels along the pkwy?
+are there any hotels?
+are there any hotels along the parkway?
+are there any hotels along the pkwy?
+show me some hotels around milepost {4.5|sys_number|milepost}
+could u please recommend any hotels around milepost {1.7|sys_number|milepost}?
+could u please recommend any hotels at milepost {1.7|sys_number|milepost}?
+any hotels around milepost {3|sys_number|milepost}?
+recommend me some hotels around milepost {145|sys_number|milepost}
+I am looking for some hotels around milepost {201|sys_number|milepost}
+I am looking for some hotels at milepost {201|sys_number|milepost}
+hotels
+hotel
+lodgings
+lodging
+motels
+motel

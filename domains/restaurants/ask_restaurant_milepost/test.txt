@@ -1,0 +1,6 @@
+what is the milepost of this restaurant?
+what is the milepost of it?
+what is the milepost of {Dogtown Roadhouse|restaurant}?
+show me the milepost of this restaurant?
+show me the milepost of it?
+show me the milepost of {Hole Lotta Doughnuts|restaurant}?
