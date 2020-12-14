@@ -1,0 +1,5 @@
+milepost {80|sys_number|milepost}
+{123|sys_number|milepost}
+{321|sys_number|milepost} please
+around milepost {45|sys_number|milepost}
+at milepost {57|sys_number|milepost}

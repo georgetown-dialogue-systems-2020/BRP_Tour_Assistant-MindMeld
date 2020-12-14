@@ -1,0 +1,8 @@
+{2|sys_number|trail_length} miles
+{three|sys_number|trail_length} miles
+less than {1.5|sys_number|trail_length} miles
+I prefer {easy|skill_level}
+{moderate|skill_level}
+{stenuous|skill_level} is ok
+{0.5|sys_number|trail_length} mile {easy|skill_level} trails
+{moderate|skill_level} trails less than {3.2|sys_number|trail_length} miles

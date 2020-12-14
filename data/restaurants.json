@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "milepost": 0,
+    "region": "ridge",
+    "name": "Blue Ridge Bucha",
+    "address": "1809 E Main St Waynesboro, VA 22980",
+    "tel": "(540) 221-6500",
+    "intro": "Nestled in Waynesboro just 3 miles from the Blue Ridge Parkway North Entrance, Blue Ridge Bucha, Virginia’s first full-service kombucha brewery and taproom is a must-see. Their family-friendly taproom has eight draft lines of delicious, Certified Organic kombucha. Tastings, small bites, outdoor patio, kids play area, and WiFi are available.",
+    "website": "http://www.blueridgebucha.com/"
+  },
+  {
+    "id": "2",
+    "milepost": 0,
+    "region": "ridge",
+    "name": "Stable Craft Brewing and Cidery",
+    "address": "375 Madrid Rd Waynesboro, VA 22980",
+    "tel": "(540) 490-2609",
+    "intro": "Experience Virginia’s chef-inspired, working farm Stable Craft Brewing & Cidery. Our agri-pub features a farm-fresh food menu with hand-crafted beers, ciders, and wine. We offer overnight stays and spacious indoor & outdoor dining options. Visit with the horses, enjoy corn hole, sit by the fire pit, or relax on the patio.",
+    "website": "https://www.stablecraftbrewing.com/"
+  },
+  {
+    "id": "3",
+    "milepost": 86,
+    "region": "ridge",
+    "name": "Olde Liberty Station Restaurant",
+    "address": "515 Bedford Ave Bedford, VA 24523-1921",
+    "tel": "(540) 587-9377",
+    "intro": "Olde Liberty Station Restaurant is your ticket for casual dining. Located just 12 miles from Parkway Milepost 86; Open 11-10 Monday-Thursday, 11-11 Friday, Noon-11 Saturday. First Class Dining in a beautifully restored train station with great prices and award-winning cheesecakes.",
+    "website": "http://www.oldelibertystation.com/"
+  },
+  {
+    "id": "4",
+    "milepost": 86,
+    "region": "ridge",
+    "name": "Peaks of Otter Lodge",
+    "address": "85554 Blue Ridge Parkway Bedford, VA 24523",
+    "tel": "(888) 454-7711",
+    "intro": "Located at Milepost 86 on the Blue Ridge Parkway, the Peaks of Otter Lodge is found in a naturally serene location with the pristine Abbott Lake and majestic Sharp Top Mountain as the backdrop.",
+    "website": "http://goo.gl/Q1ALY6"
+  },
+  {
+    "id": "5",
+    "milepost": 121,
+    "region": "plateau",
+    "name": "Roanoker Restaurant",
+    "address": "2522 Colonial Ave Roanoke, VA 24015-3121",
+    "tel": "(540) 344-7746",
+    "intro": "The Roanoker Restaurant was established in 1941. Open Tuesday through Sunday for homestyle breakfast, lunch and dinner. Fresh vegetables, breads, salad, sandwiches, and seafood plus daily specials. Reasonable prices and award-wining biscuits and chicken. Offering catering, to go and in-house dining. Children’s menu available. Exit Milepost 121 onto 220N to I-581, exit Wonju Street, left on Colonial Ave. Just seven miles from the Parkway!",
+    "website": "http://www.theroanokerrestaurant.com/"
+  },
+  {
+    "id": "6",
+    "milepost": 165.2,
+    "region": "plateau",
+    "name": "Dogtown Roadhouse",
+    "address": "302 S Locust St Floyd, VA 24091",
+    "tel": "(540) 745-6836",
+    "intro": "Dogtown Roadhouse - 302 S Locust St, Floyd VA. Wood-fired pizza, bands, & brews. Live music Fri. & Sat. 6 miles from Parkway.",
+    "website": "http://www.dogtownroadhouse.com/"
+  },
+  {
+    "id": "7",
+    "milepost": 171.5,
+    "region": "plateau",
+    "name": "Chateau Morrisette Winery & Restaurant – Floyd",
+    "address": "287 Winery Rd SW Floyd, VA 24091",
+    "tel": "(540) 593-2865",
+    "intro": "Chateau Morrisette Winery is located 300 feet off the Blue Ridge Parkway, only 4 miles north of Mabry Mill and 4 miles south of Rocky Knob in beautiful Floyd County, Virginia. The winery offers wine tastings and tours 7-days a week. Tastings include a sampling of ten different wines and a tour of the winery for $8 per person. There is a full service restaurant at the winery offering lunch Wednesday through Sunday and dinner on Friday and Saturday nights. (Reduced hours for the restaurant Jan-Mar – open every day in Oct).",
+    "website": "http://www.thedogs.com/"
+  },
+  {
+    "id": "8",
+    "milepost": 176,
+    "region": "plateau",
+    "name": "Mabry Mill Restaurant & Gift Shop",
+    "address": "266 Mabry Mill Rd SE Meadows of Dan, VA 24120-3647",
+    "tel": "(276) 952-2947",
+    "intro": "Mabry Mill Restaurant & Gift Shop – Country-style menu. Famous sweet potato, cornmeal and buckwheat pancakes. Breakfast all day. Lunch/dinner entrees. Virginia crafts and souvenirs available right on the Parkway. Open May-October.",
+    "website": "http://www.mabrymillrestaurant.com/"
+  },
+  {
+    "id": "9",
+    "milepost": 199.5,
+    "region": "plateau",
+    "name": "The Gap Deli at the Parkway",
+    "address": "7975 Fancy Gap Hwy Fancy Gap, VA 24328",
+    "tel": "(276) 728-3881",
+    "intro": "The Gap Deli at the Parkway – At US 52 & Parkway Milepost 199.5, adjacent to Treasure Potts Antique & Garden Shoppes. Homemade soup, sandwiches, salads & desserts. Open daily with seasonal hours.",
+    "website": "http://www.thegapdeli.com/"
+  },
+  {
+    "id": "10",
+    "milepost": 262,
+    "region": "highlands",
+    "name": "Hole Lotta Doughnuts",
+    "address": "1720 NC 88 West West Jefferson, NC 28694",
+    "tel": "(336) 846-6000",
+    "intro": "Hole Lotta Doughnuts - Downtown West Jefferson NC, MP 262. Fresh & delicious doughnuts.",
+    "website": "http://www.holelottadoughnuts.com/"
+  },
+  {
+    "id": "11",
+    "milepost": 290,
+    "region": "highlands",
+    "name": "Lost Province Brewing Company",
+    "address": "130 N. Depot Street Boone, NC 28607",
+    "tel": "(828) 265-3506",
+    "intro": "Lost Province Brewing Company - A brewpub located in downtown Boone at 130 N. Depot St. Serves authentic and innovative craft beer & savory wood fired fare.",
+    "website": "http://www.lostprovince.com/"
+  },
+  {
+    "id": "12",
+    "milepost": 292,
+    "region": "highlands",
+    "name": "Woodlands BBQ",
+    "address": "8304 Valley Blvd Blowing Rock, NC 28605",
+    "tel": "(828) 295-3651",
+    "intro": "Woodlands BBQ - Best in BBQ. Located on 321 Bypass. Featuring barbeque beef, pork, chicken & ribs. Open from 11 am until 10pm. Take out available.",
+    "website": "http://www.woodlandsbbq.com/"
+  },
+  {
+    "id": "13",
+    "milepost": 294,
+    "region": "highlands",
+    "name": "Gamekeeper Restaurant",
+    "address": "3005 Shull's Mill Road Boone, NC 28607",
+    "tel": "(828) 963-7400",
+    "intro": "The Gamekeeper Restaurant & Bar - MP 294, Right on Shull's Mill Rd, 2.5 miles. Eclectic stone cottage, outdoor dining, local harvests.",
+    "website": "http://www.gamekeeper-nc.com/"
+  },
+  {
+    "id": "14",
+    "milepost": 334,
+    "region": "highlands",
+    "name": "Switzerland Café",
+    "address": "9440 Hwy 226A Little Switzerland, NC 28749",
+    "tel": "(828) 765-5289",
+    "intro": "Switzerland Cafe & General Store - Hwy 226A, Milepost 334. Open 7 days. Serving lunch daily Easter - Halloween. Imported beers, wines & cheeses, picnic supplies, T-shirts, crafts.",
+    "website": "http://www.switzerlandcafe.com/"
+  },
+  {
+    "id": "15",
+    "milepost": 999,
+    "region": "pisgah",
+    "name": "TBD",
+    "address": "TBD",
+    "tel": "(999) 999-9999",
+    "intro": "TBD",
+    "website": "TBD"
+  }
+]

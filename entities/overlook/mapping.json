@@ -1,0 +1,354 @@
+{
+  "entities": [
+    {
+      "id": "1",
+      "cname": "View Shenandoah Valley Overlook",
+      "whitelist": ["View Shenandoah Valley"]
+    },
+    {
+      "id": "2",
+      "cname": "The Priest Overlook",
+      "whitelist": ["The Priest"]
+    },
+    {
+      "id": "3",
+      "cname": "Twenty Minute Cliff Overlook",
+      "whitelist": ["Twenty Minute Cliff"]
+    },
+    {
+      "id": "4",
+      "cname": "View Fork Mountain Overlook",
+      "whitelist": ["View Fork Mountain"]
+    },
+    {
+      "id": "5",
+      "cname": "View Irish Creek Valley Overlook",
+      "whitelist": ["View Irish Creek Valley"]
+    },
+    {
+      "id": "6",
+      "cname": "View Buena Vista Overlook",
+      "whitelist": ["View Buena Vista"]
+    },
+    {
+      "id": "7",
+      "cname": "View House Mountain Overlook",
+      "whitelist": ["View House Mountain"]
+    },
+    {
+      "id": "8",
+      "cname": "View Rice Mountain Overlook",
+      "whitelist": ["View Rice Mountain"]
+    },
+    {
+      "id": "9",
+      "cname": "View Terrapin Hill Overlook",
+      "whitelist": ["View Terrapin Hill"]
+    },
+    {
+      "id": "10",
+      "cname": "View Terrapin Mountain Overlook",
+      "whitelist": ["View Terrapin Mountain"]
+    },
+    {
+      "id": "11",
+      "cname": "View Arnold Valley Overlook",
+      "whitelist": ["View Arnold Valley"]
+    },
+    {
+      "id": "12",
+      "cname": "View Black Rock Hill Overlook",
+      "whitelist": ["View Black Rock Hill"]
+    },
+    {
+      "id": "13",
+      "cname": "View Headforemost Mountain Overlook",
+      "whitelist": ["View Headforemost Mountain"]
+    },
+    {
+      "id": "14",
+      "cname": "View Porter’s Mountain Overlook",
+      "whitelist": ["View Porter’s Mountain"]
+    },
+    {
+      "id": "15",
+      "cname": "View Purgatory Mountain Overlook",
+      "whitelist": ["View Purgatory Mountain"]
+    },
+    {
+      "id": "16",
+      "cname": "View Montvale Overlook",
+      "whitelist": ["View Montvale"]
+    },
+    {
+      "id": "17",
+      "cname": "Iron Mine Hollow Overlook",
+      "whitelist": ["Iron Mine Hollow"]
+    },
+    {
+      "id": "18",
+      "cname": "View Taylor’s Mountain Overlook",
+      "whitelist": ["View Taylor’s Mountain"]
+    },
+    {
+      "id": "19",
+      "cname": "View Coyner Mountain Overlook",
+      "whitelist": ["View Coyner Mountain"]
+    },
+    {
+      "id": "20",
+      "cname": "View Roanoke Basin Overlook",
+      "whitelist": ["View Roanoke Basin"]
+    },
+    {
+      "id": "21",
+      "cname": "Metz Run Overlook Overlook",
+      "whitelist": ["Metz Run Overlook"]
+    },
+    {
+      "id": "22",
+      "cname": "View Pouges Mountain Overlook",
+      "whitelist": ["View Pouges Mountain"]
+    },
+    {
+      "id": "23",
+      "cname": "View Bull Run Knob Overlook",
+      "whitelist": ["View Bull Run Knob"]
+    },
+    {
+      "id": "24",
+      "cname": "View Poor Mountain Overlook",
+      "whitelist": ["View Poor Mountain"]
+    },
+    {
+      "id": "25",
+      "cname": "View Pilot Mountain Overlook",
+      "whitelist": ["View Pilot Mountain"]
+    },
+    {
+      "id": "26",
+      "cname": "Puckett Cabin Overlook",
+      "whitelist": ["Puckett Cabin"]
+    },
+    {
+      "id": "27",
+      "cname": "Fox Hunter’s Paradise Overlook",
+      "whitelist": ["Fox Hunter’s Paradise"]
+    },
+    {
+      "id": "28",
+      "cname": "Little Glade Mill Pond Overlook",
+      "whitelist": ["Little Glade Mill Pond"]
+    },
+    {
+      "id": "29",
+      "cname": "Brinegar Cabin Overlook",
+      "whitelist": ["Brinegar Cabin"]
+    },
+    {
+      "id": "30",
+      "cname": "View Bluff Mountain Overlook",
+      "whitelist": ["View Bluff Mountain"]
+    },
+    {
+      "id": "31",
+      "cname": "View Mt. Jefferson Overlook",
+      "whitelist": ["View Mt. Jefferson"]
+    },
+    {
+      "id": "32",
+      "cname": "View Calloway Peak Overlook",
+      "whitelist": ["View Calloway Peak"]
+    },
+    {
+      "id": "33",
+      "cname": "View Wilson Creek Valley Overlook",
+      "whitelist": ["View Wilson Creek Valley"]
+    },
+    {
+      "id": "34",
+      "cname": "View Lost Cove Cliffs Overlook",
+      "whitelist": ["View Lost Cove Cliffs"]
+    },
+    {
+      "id": "35",
+      "cname": "View North Toe River Valley Overlook",
+      "whitelist": ["View North Toe River Valley"]
+    },
+    {
+      "id": "36",
+      "cname": "View North Cove Valley Overlook",
+      "whitelist": ["View North Cove Valley "]
+    },
+    {
+      "id": "37",
+      "cname": "View Table Rock Overlook",
+      "whitelist": ["View Table Rock"]
+    },
+    {
+      "id": "38",
+      "cname": "View Mt. Mitchell Overlook",
+      "whitelist": ["View Mt. Mitchell"]
+    },
+    {
+      "id": "39",
+      "cname": "View Glassmine Falls Overlook",
+      "whitelist": ["View Glassmine Falls"]
+    },
+    {
+      "id": "40",
+      "cname": "View Graybeard Mountain Overlook",
+      "whitelist": ["View Graybeard Mountain"]
+    },
+    {
+      "id": "41",
+      "cname": "View Craggy Dome Overlook",
+      "whitelist": ["View Craggy Dome"]
+    },
+    {
+      "id": "42",
+      "cname": "View Lane Pinnacle Overlook",
+      "whitelist": ["View Lane Pinnacle"]
+    },
+    {
+      "id": "43",
+      "cname": "View Bull Creek Valley Overlook",
+      "whitelist": ["View Bull Creek Valley"]
+    },
+    {
+      "id": "44",
+      "cname": "Sleepy Gap Parking Area Overlook",
+      "whitelist": ["Sleepy Gap Parking Area"]
+    },
+    {
+      "id": "45",
+      "cname": "View Chestnut Cove Overlook",
+      "whitelist": ["View Chestnut Cove"]
+    },
+    {
+      "id": "46",
+      "cname": "View Chestnut Cove Overlook",
+      "whitelist": ["View Chestnut Cove"]
+    },
+    {
+      "id": "47",
+      "cname": "View Stony Bald Overlook",
+      "whitelist": ["View Stony Bald"]
+    },
+    {
+      "id": "48",
+      "cname": "View Hominy Valley Overlook",
+      "whitelist": ["View Hominy Valley"]
+    },
+    {
+      "id": "49",
+      "cname": "View Funnel Top Overlook",
+      "whitelist": ["View Funnel Top"]
+    },
+    {
+      "id": "50",
+      "cname": "View Cold Mountain Overlook",
+      "whitelist": ["View Cold Mountain"]
+    },
+    {
+      "id": "51",
+      "cname": "View Cherry Cove Overlook",
+      "whitelist": ["View Cherry Cove"]
+    },
+    {
+      "id": "52",
+      "cname": "View Cherry Cove Overlook",
+      "whitelist": ["View Cherry Cove"]
+    },
+    {
+      "id": "53",
+      "cname": "View Looking Glass Rock Overlook",
+      "whitelist": ["View Looking Glass Rock"]
+    },
+    {
+      "id": "54",
+      "cname": "Graveyard Fields Overlook",
+      "whitelist": ["Graveyard Fields"]
+    },
+    {
+      "id": "55",
+      "cname": "View John Rock Overlook",
+      "whitelist": ["View John Rock"]
+    },
+    {
+      "id": "56",
+      "cname": "View Devil’s Courthouse Overlook",
+      "whitelist": ["View Devil’s Courthouse"]
+    },
+    {
+      "id": "57",
+      "cname": "View Mt. Hardy Overlook",
+      "whitelist": ["View Mt. Hardy"]
+    },
+    {
+      "id": "58",
+      "cname": "View Herrin Knob Overlook",
+      "whitelist": ["View Herrin Knob"]
+    },
+    {
+      "id": "59",
+      "cname": "View Rough Butt Bald Overlook",
+      "whitelist": ["View Rough Butt Bald"]
+    },
+    {
+      "id": "60",
+      "cname": "View Doubletop Mountain Overlook",
+      "whitelist": ["View Doubletop Mountain"]
+    },
+    {
+      "id": "61",
+      "cname": "View Steestachee Bald Overlook",
+      "whitelist": ["View Steestachee Bald"]
+    },
+    {
+      "id": "62",
+      "cname": "View Village of Saunook Overlook",
+      "whitelist": ["View Village of Saunook"]
+    },
+    {
+      "id": "63",
+      "cname": "View Waynesville Overlook",
+      "whitelist": ["View Waynesville"]
+    },
+    {
+      "id": "64",
+      "cname": "View Mt. Lynn Lowry Overlook",
+      "whitelist": ["View Mt. Lynn Lowry"]
+    },
+    {
+      "id": "65",
+      "cname": "View Cranberry Ridge Overlook",
+      "whitelist": ["View Cranberry Ridge"]
+    },
+    {
+      "id": "66",
+      "cname": "View Hornbuckle Valley Overlook",
+      "whitelist": ["View Hornbuckle Valley"]
+    },
+    {
+      "id": "67",
+      "cname": "View Plott Balsa Overlook",
+      "whitelist": ["View Plott Balsa"]
+    },
+    {
+      "id": "68",
+      "cname": "View Ballhoot Scar Overlook",
+      "whitelist": ["View Ballhoot Scar"]
+    },
+    {
+      "id": "69",
+      "cname": "View Raven Fork Overlook",
+      "whitelist": ["View Raven Fork"]
+    },
+    {
+      "id": "70",
+      "cname": "View Oconaluftee River Overlook",
+      "whitelist": ["View Oconaluftee River"]
+    }
+  ]
+}   
