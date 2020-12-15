@@ -1,0 +1,15 @@
+how is the hotel?
+how is the motel?
+how is the inn?
+how is the cabin?
+how is the lodging?
+how is it?
+any information about this hotel?
+any information about this motel?
+any information about this inn?
+any information about this cabin?
+any information about this lodging?
+any information about it?
+do you know the {A Greystone Inn|lodging}?
+Could you please introduce me the {Bent Creek Lodge|lodging}?
+Could you please introduce it to me?

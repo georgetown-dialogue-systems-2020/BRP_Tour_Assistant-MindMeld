@@ -1,0 +1,1554 @@
+[
+  {
+    "id": "1",
+    "milepost": 0.2,
+    "name": "Afton Overlook",
+    "elevation": 2054,
+    "intro": "The community of Afton can be seen from this overlook. Notable because it was the route Thomas Jefferson took in 1818 on his way to confirm plans for the University of Virginia.",
+    "link": "https://www.virtualblueridge.com/parkway-place/afton-overlook/"
+  },
+  {
+    "id": "2",
+    "milepost": 1.5,
+    "name": "Rockfish Valley Parking Overlook",
+    "elevation": 2148,
+    "intro": "The Rockfish River runs through the valley of the same name to the James River. The Tuscarora Indians lived by the rivers in the early 1700s before joining the Iroquois Confederation.",
+    "link": "https://www.virtualblueridge.com/parkway-place/rockfish-valley-parking-overlook/"
+  },
+  {
+    "id": "3",
+    "milepost": 2.9,
+    "name": "View Shenandoah Valley Overlook",
+    "elevation": 2354,
+    "intro": "Known as the historic “bread-basket of the Confederacy,” the valley extends northward to Harpers Ferry, W. Va., where the Shenandoah River enters the Potomac River. The valley extends south to Roanoke, Va. Possibly named for the Iroquois chief Shendoah, or for a combination of Shawnee and Algonquin words meaning “spruce-lined stream” and pronounced shind-han-dowi.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-shenandoah-valley/"
+  },
+  {
+    "id": "4",
+    "milepost": 8.8,
+    "name": "Greenstone Overlook",
+    "elevation": 3000,
+    "intro": "This overlook is placed on an outcrop of Catoctin Greenstone, a rock formed from a geologically ancient lava flow that inundated vast areas in Maryland and Northern Virginia. It is the most prevalent rock type over the first 19 miles of the Parkway. The rock type is recognizable by its deep-sea color. On the left of the view from the overlook is Big Levels, part of the 30,000-acre Big Levels Game Refuge. Below to the right is the village of Stewart’s Draft, home of conservationist Justus Cline. A short self-guiding trail loops from the overlook and extends through much forest and plant life.",
+    "link": "https://www.virtualblueridge.com/parkway-place/greenstone-overlook/"
+  },
+  {
+    "id": "5",
+    "milepost": 10.4,
+    "name": "Rock Point Overlook",
+    "elevation": 3115,
+    "intro": "Chestnut oaks surround the overlook, which provides a deep view across Back Creek Valley and onto Torrey Ridge. Catoctin Greenstone is prevalent here also.",
+    "link": "https://www.virtualblueridge.com/parkway-place/rock-point-overlook/"
+  },
+  {
+    "id": "6",
+    "milepost": 10.7,
+    "name": "Ravens Roost Overlook",
+    "elevation": 3200,
+    "intro": "Offers views of Torrey Ridge and the Shenandoah Valley to the west. To the left a path heads from the overlook to a broad rock ledge which is a typical raven’s roost. Ravens and buzzards are frequently seen from this point. At the base of the ridge are the ruins of the old Torrey iron furnace, significant until after the 1880s.",
+    "link": "https://www.virtualblueridge.com/parkway-place/ravens-roost-overlook/"
+  },
+  {
+    "id": "7",
+    "milepost": 13.1,
+    "name": "Three Ridges Overlook",
+    "elevation": 2800,
+    "intro": "Named by people looking from the opposite direction, Three Ridges does not resemble its name. Although the mountain is hidden from view by trees, the overlook affords visitors comfortable shade.",
+    "link": null
+  },
+  {
+    "id": "8",
+    "milepost": 17.6,
+    "name": "The Priest Overlook",
+    "elevation": 2690,
+    "intro": "With Three Ridges on the left, the domed Priest forms the far horizon. The Priest is the highest of the “religious mountains,” a cluster including the Little Priest, the Cardinal, the Friar and the Bald Friar. Local legend says the Priest was named for an early settler known as de Priest. Offers a large parking area.",
+    "link": null
+  },
+  {
+    "id": "9",
+    "milepost": 19.0,
+    "name": "Twenty Minute Cliff Overlook",
+    "elevation": 2715,
+    "intro": "Rock face below the overlook serves the people of White Rock as a way of measuring time. During the months of June and July the sun drops behind the mountains 20 minutes after sunlight hits the rock, enabling locals to tell time by the sun.",
+    "link": null
+  },
+  {
+    "id": "10",
+    "milepost": 19.9,
+    "name": "The Slacks Overlook",
+    "elevation": 2800,
+    "intro": "Lumberman harvested the forest near here 1916-1939. Two long swathes of timber, clear-cut along the ridge, were called Big Slash and Little Slash before locals began referring to them corporately as The Slacks.",
+    "link": null
+  },
+  {
+    "id": "11",
+    "milepost": 22.1,
+    "name": "Bald Mountain Overlook",
+    "elevation": 3252,
+    "intro": "“Balds” seen along the Parkway refer to large treeless patches covering all or part of a mountaintop. The summit of Bald Mountain touches the head of Big Levels, and the view from this overlook offers its southern side.",
+    "link": null
+  },
+  {
+    "id": "12",
+    "milepost": 23.0,
+    "name": "View Fork Mountain Overlook",
+    "elevation": 3294,
+    "intro": "Fork Mountain, seen ahead, is found between the north and south forks of the Tye River. Beyond Fork Mountain, the Tye continues through the valley between Three Ridges on the left and the Priest.",
+    "link": null
+  },
+  {
+    "id": "13",
+    "milepost": 26.4,
+    "name": "Big Spy Mountain Overlook",
+    "elevation": 3200,
+    "intro": "The trail from the parking area leads to a pasture known as the War Fields, so named because of the arrowheads found in the topsoil. To the right, the rocky dome of Big Spy can be seen.",
+    "link": null
+  },
+  {
+    "id": "14",
+    "milepost": 38.8,
+    "name": "Boston Knob Overlook",
+    "elevation": 2523,
+    "intro": "A trail loops around a hill that stands above Nettle Creek. Log benches, perfect for resting, line the trail, or you can have a picnic at the table here.",
+    "link": null
+  },
+  {
+    "id": "15",
+    "milepost": 42.2,
+    "name": "View Irish Creek Valley Overlook",
+    "elevation": 2660,
+    "intro": "Irish Creek Valley overlook possesses a breathtaking view of Northern Virginia in all its splendor. Irish Creek got its name from Irish and Scottish immigrants that settled along its banks in the mid- 1700s. This overlook allows visitors of the Blue Ridge Parkway to view miles of rolling mountains and scenic countryside.",
+    "link": null
+  },
+  {
+    "id": "16",
+    "milepost": 44.4,
+    "name": "White’s Gap Overlook",
+    "elevation": 2567,
+    "intro": "White’s Gap is the crossing point for the old Jordan toll road and lies directly north of the overlook. Local portion of the road is preserved as part of the George Washington National Forest Road System.",
+    "link": null
+  },
+  {
+    "id": "17",
+    "milepost": 44.9,
+    "name": "Chimney Rock Mountain Overlook",
+    "elevation": 2485,
+    "intro": "The view from this overlook is magnificent in all seasons. Here the leaves were just beginning to change colors, and the vibrant reds really stand out.",
+    "link": null
+  },
+  {
+    "id": "18",
+    "milepost": 45.7,
+    "name": "View Buena Vista Overlook",
+    "elevation": 2325,
+    "intro": "The beautiful view from this overlook offers a look at the mountain town of Buena Vista. Around you see the magnificent mountains rising straight up from the valley below. The green valley extends as far as your eyes can see.",
+    "link": null
+  },
+  {
+    "id": "19",
+    "milepost": 49.3,
+    "name": "View House Mountain Overlook",
+    "elevation": 2498,
+    "intro": "Beyond the Great Valley, among the Alleghenies, stand Big House and Little House Mountains, though in the distance their outlines merge into a single profile.",
+    "link": null
+  },
+  {
+    "id": "20",
+    "milepost": 52.8,
+    "name": "Bluff Mountain Overlook",
+    "elevation": 1820,
+    "intro": "There is a gorgeous view of the mountain ranges extending into the distance. The first large range is Bluff Mountain rising at the head of Otter Creek. At one time, a fire tower topped the mountain looking into the Jefferson National Forest.",
+    "link": "https://www.virtualblueridge.com/parkway-place/bluff-mountain-overlook/"
+  },
+  {
+    "id": "21",
+    "milepost": 53.6,
+    "name": "View Rice Mountain Overlook",
+    "elevation": 1755,
+    "intro": "The overlook provides a beautiful view of Rice Mountain rising high above the land. This is a nice place to stop and take in all of the beauty the Parkway has to offer.",
+    "link": null
+  },
+  {
+    "id": "22",
+    "milepost": 55.1,
+    "name": "White Oak Flats Overlook",
+    "elevation": 1460,
+    "intro": "Dancing Creek runs by this stretch of forest dominated by white oak. This tree is able to adapt to many habitats, but thrives in moist areas.",
+    "link": null
+  },
+  {
+    "id": "23",
+    "milepost": 55.9,
+    "name": "Dancing Creek Overlook",
+    "elevation": 1300,
+    "intro": "The sunlight sparkles and dances across this mountain stream that was so rightfully named Dancing Creek. This is the perfect place to enjoy a picnic and bask in the sun.",
+    "link": null
+  },
+  {
+    "id": "24",
+    "milepost": 57.6,
+    "name": "Upper Otter Creek Overlook",
+    "elevation": 1085,
+    "intro": "Otter Creek is an extraordinary place to relax and get away from the confusion of a fast-paced world. Watch the water as it rushes and slows at the pace that nature sets.",
+    "link": null
+  },
+  {
+    "id": "25",
+    "milepost": 58.2,
+    "name": "Otter Creek Flats Overlook",
+    "elevation": 1005,
+    "intro": "The shallow banked area of Otter Creek is called the flats. Sudden heavy rains make this area prone to flooding over the shallow banks.",
+    "link": null
+  },
+  {
+    "id": "26",
+    "milepost": 59.7,
+    "name": "Otter Creek Overlook",
+    "elevation": 885,
+    "intro": "Otter Creek runs 10 miles down the Blue Ridge to the James River. Several overlooks follow the course of this creek, giving many opportunities to appreciate its beauty.",
+    "link": null
+  },
+  {
+    "id": "27",
+    "milepost": 60.4,
+    "name": "The Riffles Overlook",
+    "elevation": 822,
+    "intro": "With all of the natural beauty, the Riffles Overlook is a peaceful place to stop and enjoy nature. From here you are able to listen to the beautiful sounds of the creek, and watch as the water swiftly splashes over the rocks on its way downstream.",
+    "link": null
+  },
+  {
+    "id": "28",
+    "milepost": 61.4,
+    "name": "View Terrapin Hill Overlook",
+    "elevation": 780,
+    "intro": "This overlook is a great area for those who enjoy being outdoors and in the presence of nature. The trails from this overlook will lead you to Otter Lake, where you can enjoy fishing in the summer. There are campgrounds and picnic tables here as well.",
+    "link": null
+  },
+  {
+    "id": "29",
+    "milepost": 62.5,
+    "name": "Lower Otter Creek Overlook",
+    "elevation": 680,
+    "intro": "Here you will find a wooden bridge that leads you across Otter Creek. An ideal place to hike, a trail takes you through this beautiful setting of sycamore, black walnut and ironwood trees.",
+    "link": null
+  },
+  {
+    "id": "30",
+    "milepost": 63.1,
+    "name": "Otter Lake Overlook",
+    "elevation": 650,
+    "intro": "The lake glistens in the sun asking to be admired. During early summer, visitors can be found here fishing for trout and bream.",
+    "link": null
+  },
+  {
+    "id": "31",
+    "milepost": 72.6,
+    "name": "View Terrapin Mountain Overlook",
+    "elevation": 2885,
+    "intro": "There is an impressive view of Terrapin Mt. and the valley in the distance. The arched outline and ranges of the mountain suggests the shape of the box turtle.",
+    "link": null
+  },
+  {
+    "id": "32",
+    "milepost": 75.3,
+    "name": "View Arnold Valley Overlook",
+    "elevation": 3700,
+    "intro": "The Alleghenies are seen in the distance, with Arnold’s Valley at the foot of the mountains. The valley gets its name from Steve Arnold when he established his homestead in 1749.",
+    "link": null
+  },
+  {
+    "id": "33",
+    "milepost": 76.5,
+    "name": "Apple Orchard Mountain Overlook",
+    "elevation": 3950,
+    "intro": "The view from this, the highest Parkway elevation in Virginia, is breathtaking. Looking down, you can see that harsh winters have given this the look of an old neglected orchard.",
+    "link": null
+  },
+  {
+    "id": "34",
+    "milepost": 78.4,
+    "name": "Sunset Field Overlook",
+    "elevation": 3472,
+    "intro": "Named for early settlers, Sunset Field offered boys at the summer resort of Camp Kee-wan-zee a place to enjoy the sun. Today, this is a beautiful area to hike and enjoy the outdoors.",
+    "link": null
+  },
+  {
+    "id": "35",
+    "milepost": 79.7,
+    "name": "Onion Mountain Overlook",
+    "elevation": 3195,
+    "intro": "From here you can see the lowlands below the Blue Ridge. A short trail guides you through rhododendron and mountain laurel, which bloom in early June.",
+    "link": null
+  },
+  {
+    "id": "36",
+    "milepost": 81.9,
+    "name": "View Headforemost Mountain Overlook",
+    "elevation": 2860,
+    "intro": "Enjoy the scenery from this overlook where you can see Headforemost and Flat Top Mountains. This view offers a look at why Flat Top was once known as Round Top.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-headforemost-mt/"
+  },
+  {
+    "id": "37",
+    "milepost": 89.4,
+    "name": "Upper Goose Creek Valley Overlook",
+    "elevation": 1925,
+    "intro": "Quakers were early settlers of Goose Creek Valley. The Iroquois made the first years insecure, and the Quakers moved out, but returned soon after in 1758. The yellow poplar and dogwood found here adds to the beauty of this area.",
+    "link": "https://www.virtualblueridge.com/parkway-place/upper-goose-creek-valley-overlook/"
+  },
+  {
+    "id": "38",
+    "milepost": 90.0,
+    "name": "View Porter’s Mountain Overlook",
+    "elevation": 2100,
+    "intro": "This overlook presents a view down Goose Creek Valley onto the profile of Porter’s Mountain. Prevalent here are a variety of oak trees. Included are the Red, Scarlet, White, and Chestnut oaks.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-porters-mountain/"
+  },
+  {
+    "id": "39",
+    "milepost": 91.8,
+    "name": "Mills Gap Overlook",
+    "elevation": 2435,
+    "intro": "This scenic overlook offers a view of the James River flowing in the valley below. The beautiful long range views extend on both sides of the Parkway motor road.",
+    "link": "https://www.virtualblueridge.com/parkway-place/mills-gap-overlook/"
+  },
+  {
+    "id": "40",
+    "milepost": 92.1,
+    "name": "   View Purgatory Mountain Overlook",
+    "elevation": 2400,
+    "intro": "Purgatory Mountain rises above the Great Valley. The “Carolina” road passed through the town of Buchanan, at the base of the mountain. Over the rough path came stagecoaches and wagons. The strenuous trip down the path and around sharp bends of a creek had drivers referring to the trip as “going through purgatory.” The creek became Purgatory Creek, and later the mountain took the same name.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-purgatory-mt/"
+  },
+  {
+    "id": "41",
+    "milepost": 93.1,
+    "name": "Boblett’s Gap Overlook",
+    "elevation": 2150,
+    "intro": "Boblett’s Gap is the location of the family cemetery of Will Boblett. The early settlers in the mountains had their own family cemetery. Without doctors close by the home remedies did not always cure the sick. Will Boblett and family moved out of the mountains into the valley, however, seven family members remained with their headstone in the family cemetery.",
+    "link": "https://www.virtualblueridge.com/parkway-place/bobletts-gap-overlook/"
+  },
+  {
+    "id": "42",
+    "milepost": 95.2,
+    "name": "Pine Tree Overlook",
+    "elevation": 2490,
+    "intro": "The view from Pine Tree Overlook is astounding. The green valley below is filled with farms and forests while vast mountain ranges rise above.",
+    "link": "https://www.virtualblueridge.com/parkway-place/pine-tree-overlook/"
+  },
+  {
+    "id": "43",
+    "milepost": 95.3,
+    "name": "Harvey’s Knob Overlook",
+    "elevation": 2524,
+    "intro": "The Great Valley is seen from this overlook, with Harvey’s Knob on the right. This is the area where Robert Harvey led the way of the local production of iron.",
+    "link": "https://www.virtualblueridge.com/parkway-place/harveys-knob-overlook/"
+  },
+  {
+    "id": "44",
+    "milepost": 95.9,
+    "name": "View Montvale Overlook",
+    "elevation": 2441,
+    "intro": "At one time Montvale was named Bufordsville after a man who gave land to the N & W Railway. He only asked that the passenger trains always stop at the station. However, this was impractical with no passengers, and the trains eventually rolled on by.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-montvale-town/"
+  },
+  {
+    "id": "45",
+    "milepost": 96.2,
+    "name": "Iron Mine Hollow Overlook",
+    "elevation": 2364,
+    "intro": "Long range views abound from this overlook into the valley below. This area was prospected and mined for iron ore. Many mines were in operation but limited transportation confined development. In 1892 the mines slowly began shutting down due to the rich easily worked ore found in Minnesota.",
+    "link": "https://www.virtualblueridge.com/parkway-place/iron-mine-hollow/"
+  },
+  {
+    "id": "46",
+    "milepost": 97.0,
+    "name": "View Taylor’s Mountain Overlook",
+    "elevation": 2340,
+    "intro": "The overlook provides a pleasing view of valleys and mountain ranges. Taylor’s Mountain stands at the end of a mountain wall that forms one side of Goose Creek Valley.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-taylors-mountain/"
+  },
+  {
+    "id": "47",
+    "milepost": 99.6,
+    "name": "The Great Valley Overlook",
+    "elevation": 2493,
+    "intro": "The Great Valley with its rolling hills seems to stretch forever. Once the path of Native Americans and pioneers, it is now a thriving route of trade and travel. The Parkway hovers above the Great Valley for a hundred miles south of Rockfish Gap.",
+    "link": "https://www.virtualblueridge.com/parkway-place/the-great-valley-overlook/"
+  },
+  {
+    "id": "48",
+    "milepost": 100.6,
+    "name": "Quarry Overlook",
+    "elevation": 2170,
+    "intro": "The quarry began excavating a dolomite deposit in 1916. The quarry has maintained an annual output of 6 to 7 million tons. Dolomite is similar to limestone but has a large percentage of magnesium. Dolomite is used in the process of making concrete and building blocks.",
+    "link": "https://www.virtualblueridge.com/parkway-place/quarry-overlook/"
+  },
+  {
+    "id": "49",
+    "milepost": 106.9,
+    "name": "N & W Railroad Overlook",
+    "elevation": 1151,
+    "intro": "Crews laid the first rails through this region of the Blue Ridge in 1852. The line from Lynchburg, Va., to Bristol, Tenn., was completed in 1856. The present N & W results from two receiverships in the late 1880s.",
+    "link": "https://www.virtualblueridge.com/parkway-place/n-w-railroad-overlook/"
+  },
+  {
+    "id": "50",
+    "milepost": 107.0,
+    "name": "View Coyner Mountain Overlook",
+    "elevation": 1150,
+    "intro": "The beautiful trees, plants and flowers of the parkway thrive at this overlook. They are so plentiful that the long range views are almost hidden behind them, however Coyner Mountain can still be seen rising up from the lowlands.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-coyner-mountain/"
+  },
+  {
+    "id": "51",
+    "milepost": 109.8,
+    "name": "Read Mountain Overlook",
+    "elevation": 1164,
+    "intro": "The mountain is named for David Read who came from Henrico County around 1840, and forms the long profile ahead.",
+    "link": "https://www.virtualblueridge.com/parkway-place/read-mountain-overlook/"
+  },
+  {
+    "id": "52",
+    "milepost": 110.6,
+    "name": "Stewart Knob Overlook",
+    "elevation": 1365,
+    "intro": "Here the Blue Ridge builds in to its final surge before settling into the Roanoke Valley. Traveling southward the Blue Ridge once again rises upward into the Blue Ridge plateau.",
+    "link": "https://www.virtualblueridge.com/parkway-place/stewart-knob-overlook/"
+  },
+  {
+    "id": "53",
+    "milepost": 112.9,
+    "name": "View Roanoke Basin Overlook",
+    "elevation": 1000,
+    "intro": "Trees dominate the landscape at the Roanoke Basin Overlook. Native Americans and buffalo once traveled the natural landscaped paths in the nearby basin and valleys. Settlers established homes along these paths and began a lucrative trade with travelers passing through the area.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-roanoke-basin/"
+  },
+  {
+    "id": "54",
+    "milepost": 123.2,
+    "name": "Buck Mountain Overlook",
+    "elevation": 1465,
+    "intro": "The overlook is surrounded by trees and limits the view around you. There is a moderate half-mile hike to the summit of Buck Mountain providing an excellent view of Southern Roanoke.",
+    "link": "https://www.virtualblueridge.com/parkway-place/buck-mountain-overlook/"
+  },
+  {
+    "id": "55",
+    "milepost": 126.2,
+    "name": "Masons Knob Overlook",
+    "elevation": 1425,
+    "intro": "From the overlook Masons Knob rises above the surrounding landscape. In 1750 John Mason settled at the foot of the mountain. During the Indian raids of the French and Indian War his dwelling was used as a stockade.",
+    "link": "https://www.virtualblueridge.com/parkway-place/masons-knob-overlook/"
+  },
+  {
+    "id": "56",
+    "milepost": 128.7,
+    "name": "Metz Run Overlook",
+    "elevation": 1875,
+    "intro": "The forest of trees fills your eyes with every color of green imaginable. The lavish green slopes of the mountains descend into the valley below. To the left you will see a bridge hovering above the trees that only leads to more splendor.",
+    "link": null
+  },
+  {
+    "id": "57",
+    "milepost": 129.3,
+    "name": "View Pouges Mountain Overlook",
+    "elevation": 2032,
+    "intro": "There is a gorgeous view down into the valley below from the overlook. Back Creek travels throughout the valley and is the headwaters of the Roanoke River. A man named Squire Elijah Poage operated his saw and grist mill using the water from Back Creek. He was well known in the community and was appointed Justice of the Peace. Shortly after his death the mill shut down.",
+    "link": null
+  },
+  {
+    "id": "58",
+    "milepost": 129.6,
+    "name": "Roanoke Valley Overlook",
+    "elevation": 2100,
+    "intro": "The vast Roanoke Valley makes for a magnificent view. This overlook provides a view of the largest community along the Parkway.",
+    "link": null
+  },
+  {
+    "id": "59",
+    "milepost": 129.9,
+    "name": "Lost Mountain Overlook",
+    "elevation": 2200,
+    "intro": "The view from Lost Mountain Overlook is astounding. There is a panoramic view that shows the true beauty of the Parkway and why it is a National Park. It is not known how Lost Mountain got its name. Hopefully the natural landscape and mountains will never be lost to development.",
+    "link": ""
+  },
+  {
+    "id": "60",
+    "milepost": 132.9,
+    "name": "Slings Gap Overlook",
+    "elevation": 2860,
+    "intro": "The name Slings Gap derives from a Mr. Schilling who lived in the area. Overtime the name was pronounced differently and eventually became Sling. Slings Gap is a passageway to the Blue Ridge plateau where fields of crops and pastures abound.",
+    "link": null
+  },
+  {
+    "id": "61",
+    "milepost": 133.6,
+    "name": "View Bull Run Knob Overlook",
+    "elevation": 2890,
+    "intro": "An event occurred near Bull Run Knob during the French and Indian War in 1756. Native American’s heard that a Colonel would be traveling through the area on an inspection tour of the forts. The leader of the Indian ambush told them to fire upon the Colonel and company who would be traveling northward. Only a guide and a servant accompanied the Colonel. However, the Colonel George Washington, passed through the area traveling southward and was not harmed.",
+    "link": null
+  },
+  {
+    "id": "62",
+    "milepost": 134.9,
+    "name": "View Poor Mountain Overlook",
+    "elevation": 2975,
+    "intro": "Poor Mountain is seen as the high point on the left horizon. The mountain is named for Major Poore who served under Andrew Lewis in the French and Indian War.",
+    "link": null
+  },
+  {
+    "id": "63",
+    "milepost": 139.0,
+    "name": "Cahas Knob Overlook",
+    "elevation": null,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "64",
+    "milepost": 143.9,
+    "name": "Devil’s Backbone Overlook",
+    "elevation": 2708,
+    "intro": "In the mountains, rough and rocky features commonly contain the word “devil.” Devil’s Backbone is a steep point jutting out to the right between the overlook and Pine Spur. Seen ahead is a view of the Blackwater Valley, while to the left are Grassy Hill and Cahas Knob.",
+    "link": null
+  },
+  {
+    "id": "65",
+    "milepost": 144.8,
+    "name": "Pine Spur Overlook",
+    "elevation": null,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "66",
+    "milepost": 154.1,
+    "name": "Smart View Overlook",
+    "elevation": 2564,
+    "intro": "The hills and slopes of this overlook draw your eyes into the valleys far below. In the distance the ranges of lowland hills and the Pigg River Valley can be seen. Dogwood trees flourish here, along with locust, maple, oak, cedar and pine.",
+    "link": null
+  },
+  {
+    "id": "67",
+    "milepost": 157.6,
+    "name": "Shortts Knob Overlook",
+    "elevation": 2806,
+    "intro": "Amos B. Shortt lived in the area and trapped animals for the pelts. By selling and trading the pelts, he would make a fairly good income for himself. He would carry a bag, a cane and .22 revolver while out checking his trap line. The gun was only used if necessary because it could damage the pelt of an animal.",
+    "link": null
+  },
+  {
+    "id": "68",
+    "milepost": 168.0,
+    "name": "The Saddle Overlook",
+    "elevation": 3381,
+    "intro": "The Saddle is a ridge connecting two high points on Rocky Knob Mountain. The Saddle forms a portion of the Blue Ridge crest line and offers an extensive view of the Blue Ridge.",
+    "link": null
+  },
+  {
+    "id": "69",
+    "milepost": 168.8,
+    "name": "Rock Castle Gorge Overlook",
+    "elevation": 3195,
+    "intro": "Rock Castle Gorge lies below, bordered by Brammer Spur. A hiker’s trail, once an old mountain road, extends five miles alongside Rock Castle Creek.",
+    "link": null
+  },
+  {
+    "id": "70",
+    "milepost": 179.3,
+    "name": "Round Meadow Overlook",
+    "elevation": 2800,
+    "intro": "Trees full of color will surround you at the Round Meadow Overlook. There is a walking trail that will lead you through the peaceful forest. The trail is a half-mile long and is a moderate walking trail.",
+    "link": null
+  },
+  {
+    "id": "71",
+    "milepost": 189.0,
+    "name": "Groundhog Meadow Overlook",
+    "elevation": 3035,
+    "intro": "From Groundhog Mountain you can enjoy a beautiful scenic view. An observation tower that was used by the Virginia Forest Service offers amazing long-range views. The groundhog is one of many mammals you may see along the parkway. Farmers who moved into the highlands opened land that favored the habitat of the groundhog, including the south slope of Groundhog Mountain. There are also picnic tables and restrooms at this overlook.",
+    "link": null
+  },
+  {
+    "id": "72",
+    "milepost": 189.1,
+    "name": "View Pilot Mountain Overlook",
+    "elevation": 2950,
+    "intro": "The unusual outline of Pilot Mountain is carved from an outcrop of quartzite. The distinctive profile can resemble many forms in one’s mind. Some may see an island or an impassable fortress on top of the mountain. Native American’s call Pilot Mountain the Great Guide.",
+    "link": null
+  },
+  {
+    "id": "73",
+    "milepost": 190.0,
+    "name": "Puckett Cabin Overlook",
+    "elevation": 2848,
+    "intro": "The Puckett cabin on Groundhog Mountain is easily viewed from the Parkway. It is a historic site that stands in tribute to the legendary midwife Orlean Hawks Puckett, who to many symbolizes the strength of the Appalachian woman.",
+    "link": null
+  },
+  {
+    "id": "74",
+    "milepost": 202.8,
+    "name": "Mt. Airy Granite Overlook",
+    "elevation": 3015,
+    "intro": "The small stretch of white barely visible in the valley is the Mt. Airy Granite Quarry. Beneath the ground lies a mountain of granite. The grayish white granite is ideal for monuments, bridges and buildings.",
+    "link": null
+  },
+  {
+    "id": "75",
+    "milepost": 203.9,
+    "name": "Piedmont Overlook",
+    "elevation": 2900,
+    "intro": "View of the Piedmont",
+    "link": null
+  },
+  {
+    "id": "76",
+    "milepost": 218.6,
+    "name": "Fox Hunter’s Paradise Overlook",
+    "elevation": 2805,
+    "intro": "The crest of High Piney Spur seen from this overlook was well known by people in the area. Many men, and sometimes their wives and children, would come here for the foxhunt. Often they were not too concerned with actually catching the fox; they enjoyed the chase and listening to the sound of their dogs trailing the fox. There are picnic tables and a relaxing 0.2-mile trail to a beautiful view of the countryside.",
+    "link": "https://www.virtualblueridge.com/parkway-place/fox-hunters-paradise/"
+  },
+  {
+    "id": "77",
+    "milepost": 230.0,
+    "name": "Little Glade Mill Pond Overlook",
+    "elevation": 2709,
+    "intro": "The scenery at this overlook is spectacular. The calm pond draws the reflection of the colorful trees. In the early 1900s there was a turbine-type mill in operation. The mill was powered by the steady flow of the Little Glade Creek. This is a wonderful place for a picnic and there is a 0.4-mile loop trail around the pond.",
+    "link": null
+  },
+  {
+    "id": "78",
+    "milepost": 232.5,
+    "name": "Stone Mountain Overlook",
+    "elevation": 3115,
+    "intro": "The view into the rolling foothills is inspiring. In the distance stands a white slope of rock, which is Stone Mountain. Small in perspective from the overlook, the large domed-shaped mountain of granite rock attracts many visitors each year.",
+    "link": "https://www.virtualblueridge.com/parkway-place/stone-mountain-overlook/"
+  },
+  {
+    "id": "79",
+    "milepost": 233.7,
+    "name": "Bullhead Mountain Overlook",
+    "elevation": 3200,
+    "intro": "The slopes of the mountains from this overlook lead your eyes down into the mountain ranges below. Bull Head Mountain’s profile is unique among the other mountains in the area. The crest line of Bull Head Mountain is said to resemble that of a bull’s head.",
+    "link": "https://www.virtualblueridge.com/parkway-place/bullhead-mountain-overlook/"
+  },
+  {
+    "id": "80",
+    "milepost": 235.0,
+    "name": "Mahogany Rock Overlook",
+    "elevation": 3436,
+    "intro": "This overlook offers a view of the rolling land of Virginia to the right and the distinctive mountainous land of North Carolina to the left. The views of the Blue Ridge plateau are plentiful; common throughout the plateau are fin-shaped rock outcrops. Mahogany Rock gets its name from a mahogany tree that grew on top of the rock outcrop that lies across the road from the overlook.",
+    "link": "https://www.virtualblueridge.com/parkway-place/mahogany-rock-overlook/"
+  },
+  {
+    "id": "81",
+    "milepost": 235.7,
+    "name": "Devil’s Garden Overlook",
+    "elevation": 3436,
+    "intro": "There is a narrow view down into the lowlands due to the mountainous slopes on each side of the overlook. The Devil’s Garden may get its name from the ample number of rattlesnakes and copperheads that are in the area, or because the early mountain settlers often gave rough rocky features the devil’s name.",
+    "link": "https://www.virtualblueridge.com/parkway-place/devils-garden-overlook/"
+  },
+  {
+    "id": "82",
+    "milepost": 236.9,
+    "name": "Air Bellows Overlook",
+    "elevation": 3744,
+    "intro": "This beautiful vista is designated as the Crest of the Blue Ridge. Below brings a view of a valley full of Christmas trees. Air Bellows gets its name from the strong winds that travel through the area, especially during winter.",
+    "link": "https://www.virtualblueridge.com/parkway-place/air-bellows-overlook/"
+  },
+  {
+    "id": "83",
+    "milepost": 239,
+    "name": "Brinegar Cabin Overlook",
+    "elevation": 3508,
+    "intro": "This tiny cabin was built by Martin Brinegar around 1880 and lived in until the 1930s when the homestead was purchased for the Parkway from his widow. The cabin is an authentic mountain home where visitors may get a glimpse of mountain life. From points at the end of the parking area lead the Cedar Ridge and the Bluff Mountain trails.",
+    "link": null
+  },
+  {
+    "id": "84",
+    "milepost": 240.0,
+    "name": "Low Notch Overlook",
+    "elevation": null,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "85",
+    "milepost": 243.4,
+    "name": "View Bluff Mountain Overlook",
+    "elevation": 3334,
+    "intro": "To the left of the overlook is Bluff Mountain with a rough outcrop of rock at its peak created by the wind. The mountain descends into Basin Cove. The flat ridge to the right of the overlook is Flat Rock Ridge. The Bluff Mountain Trail, a moderate 7.5-mile trail that parallels the Parkway, is a great way to enjoy nature.",
+    "link": null
+  },
+  {
+    "id": "86",
+    "milepost": 252.8,
+    "name": "Sheets Gap Overlook",
+    "elevation": 3342,
+    "intro": "Beyond the Blue Ridge foothills lies the Yadkin Valley. Rising up behind the valley is the Brushy Mountains. Over time streams have made the Yadkin Valley wider and shaped the foothills. This overlook is a perfect place to rest with picnic tables and beautiful views.",
+    "link": "https://www.virtualblueridge.com/parkway-place/sheets-gap-overlook/"
+  },
+  {
+    "id": "87",
+    "milepost": 260.3,
+    "name": "Jumpin’ Off Rocks Overlook",
+    "elevation": 3165,
+    "intro": "The overlook provides excellent long-range views of mountainous terrain. The Jumpin’ Off Rocks are located at the end of a short woodland trail. The hiking trail takes you into woods filled with oak, poplar, maple, dogwood and rhododendron, with the trail ending at a stunning scenic view.",
+    "link": "https://www.virtualblueridge.com/parkway-place/jumpin-off-rocks-overlook/"
+  },
+  {
+    "id": "88",
+    "milepost": 264.4,
+    "name": "The Lump Overlook",
+    "elevation": 3465,
+    "intro": "The natural round hill of land that sticks up from the overlook is The Lump. A brief trail leads you to the hilltop view. You can enjoy the view that reaches far into the Yadkin Valley.",
+    "link": "https://www.virtualblueridge.com/parkway-place/the-lump-overlook/"
+  },
+  {
+    "id": "89",
+    "milepost": 266.8,
+    "name": "View Mt. Jefferson Overlook",
+    "elevation": 3699,
+    "intro": "Mt. Jefferson was designated in honor of one of the country’s founding fathers in 1952. The mountain rises above the town of Jefferson and provides excellent views of the surrounding area. During the Civil War many slaves who had escaped hid on the mountain as they were traveling north. People opposed to slavery helped the runaways with food and direction.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-mt-jefferson/"
+  },
+  {
+    "id": "90",
+    "milepost": 267.8,
+    "name": "Betsey’s Rock Falls Overlook",
+    "elevation": 3400,
+    "intro": "To the left of the overlook is a slender band of gray rock with a small waterfall flowing over it to the bottom of the slope. Betsey’s Rock is a ledge below the top of the falls. Aunt Betsy Pierce lived there during the Civil War with her two children. She made her living by gathering ginseng and other herbs to sell.",
+    "link": "https://www.virtualblueridge.com/parkway-place/betseys-rock-falls-overlook/"
+  },
+  {
+    "id": "91",
+    "milepost": 270.2,
+    "name": "Lewis Fork Overlook",
+    "elevation": 3798,
+    "intro": "The appealing panoramic view from the overlook takes your eyes into the distance. Below the overlook lies the Lewis Fork that flows into the Yadkin River. At one time a young hunter named Daniel Boone lived in the area.",
+    "link": null
+  },
+  {
+    "id": "92",
+    "milepost": 272.5,
+    "name": "Tomkins Knob Overlook",
+    "elevation": 3657,
+    "intro": "A half-mile trail will lead you to Jesse Brown Cabin from this overlook. The cabin was built in the late 1800s and sits beneath a large red maple tree. Built as a residence for local preachers, the cabin is known for its sharp inclined roof.",
+    "link": "https://www.virtualblueridge.com/parkway-place/tomkins-knob-overlook/"
+  },
+  {
+    "id": "93",
+    "milepost": 274.3,
+    "name": "Elk Mountain Overlook",
+    "elevation": 3795,
+    "intro": "This overlook provides an astounding look into the Yadkin Valley. The word Yadkin is taken from the name of an Indian village that was near the river.",
+    "link": "https://www.virtualblueridge.com/parkway-place/elk-mountain-overlook/"
+  },
+  {
+    "id": "94",
+    "milepost": 281.4,
+    "name": "Grandview Overlook",
+    "elevation": 3240,
+    "intro": "The Yadkin Valley is the “grand view” seen below, where the beautiful mountains and valleys seem to ramble on forever. Daniel Boone loved hunting in this area and would camp near a water source. Boone’s Camp Branch lies down below in the valley.",
+    "link": null
+  },
+  {
+    "id": "95",
+    "milepost": 289.5,
+    "name": "Raven Rocks Overlook",
+    "elevation": 3810,
+    "intro": "This is another of the more popular overlooks along the Blue Ridge Parkway. There is a good parking area available, and many people love to step out on Raven Rock for a picnic. Just as Thunder Hill Overlook provides one of the best sunrises, it is said that Raven Rock provides one of the best sunsets. This is a perfect stop for the romantic in all of us to gaze at the inspiring spectrum of color as the sun sets behind Tweetsie Railroad. This is also a popular spot for rock climbers.",
+    "link": "https://www.virtualblueridge.com/parkway-place/raven-rocks-overlook/"
+  },
+  {
+    "id": "96",
+    "milepost": 289.8,
+    "name": "Yadkin Valley Overlook",
+    "elevation": 3830,
+    "intro": "This is a small pulloff between Thuder Hill and Raven Rock. This pulloff offers limited parking space, but there is a wonderful panoramic view of the Yadkin River Valley.",
+    "link": "https://www.virtualblueridge.com/parkway-place/yadkin-valley-overlook/"
+  },
+  {
+    "id": "97",
+    "milepost": 290.4,
+    "name": "Thunder Hill Overlook",
+    "elevation": 3795,
+    "intro": "Thunder Hill Overlook is probably one of the most visited overlooks along the Blue Ridge Parkway. Even though there is not much here, it affords one of the best long-range views of the Piedmont of North Carolina. From this point, it has been said that you can catch the best sunrise available along the Parkway.",
+    "link": "https://www.virtualblueridge.com/parkway-place/thunder-hill-overlook/"
+  },
+  {
+    "id": "98",
+    "milepost": 295.3,
+    "name": "Sim’s Creek Overlook",
+    "elevation": 3447,
+    "intro": "This overlook is just before a high bridge crossing Sim’s Creek. There is a trailhead for the Green Knob Trail at this overlook. The Green Knob Trail is a 2.3 mile looping trail that is considered moderate to strenuous. About halfway through the trail you will discover a spectacular view of Grandfather Mountain with Price Lake glistening in the sun below.",
+    "link": "https://www.virtualblueridge.com/parkway-place/sims-creek-overlook/"
+  },
+  {
+    "id": "99",
+    "milepost": 295.9,
+    "name": "Sims Pond Overlook",
+    "elevation": 3447,
+    "intro": "Sims Pond is the first stop after you enter Julian Price Memorial Park. This pond is stocked by North Carolina Hatcheries, so it is a great spot to stop and enjoy a bit of trout fishing. The Green Knob Trail begins at this overlook.",
+    "link": "https://www.virtualblueridge.com/parkway-place/sims-pond-overlook/"
+  },
+  {
+    "id": "100",
+    "milepost": 296.7,
+    "name": "Price Lake Overlook",
+    "elevation": 3410,
+    "intro": "The Julian Price Memorial Park, comprising 4,200 acres, is named in honor of its former owner, the late Julian Price, for many years president of the Jefferson Standard Life Insurance Company of Greensboro, NC. The company and Mr. Price’s son and daughter, Ralph C. Price and Mrs. Joseph McKinley Bryan, cooperated in the acquisition and dedication of this property as a public recreation area for all to enjoy.",
+    "link": "https://www.virtualblueridge.com/parkway-place/price-lake-overlook/"
+  },
+  {
+    "id": "101",
+    "milepost": 299.0,
+    "name": "Cold Prong Pond Overlook",
+    "elevation": 3580,
+    "intro": "This overlook doesn’t offer much of a long range vista, but there is a trailhead that makes for a short, easy hike to Cold Prong Pond. If you continue on the trail, it leads to the Tanawha Trail. The Tanawha Trail is a foot trail that connects Beacon Heights and Price Lake.",
+    "link": "https://www.virtualblueridge.com/parkway-place/cold-prong-pond-overlook/"
+  },
+  {
+    "id": "102",
+    "milepost": 299.7,
+    "name": "View Calloway Peak Overlook",
+    "elevation": 3798,
+    "intro": "Calloway Peak is the highest elevation in the Blue Ridge Mountains at 5964 ft elevation. This overlook is almost 1/2 mile below at 3798 ft. There is a trailhead at this overlook that takes you down to Boone Fork Creek. Continue south along the creek and you will arrive at the bridge just past Boone Fork Creek Overlook at milepost 300.0.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-calloway-peak/"
+  },
+  {
+    "id": "103",
+    "milepost": 300.6,
+    "name": "Green Mountain Overlook",
+    "elevation": 4134,
+    "intro": "Offers scenic views of Green Mountain below. This is one of the few overlooks that are better in the Fall and Winter months due to the growth from where the overlook was originally cut during Blue Ridge Parkway construction. In Fall and Winter, the leaves are gone and the views are incredible.",
+    "link": "https://www.virtualblueridge.com/parkway-place/green-mountain-overlook/"
+  },
+  {
+    "id": "104",
+    "milepost": 301.8,
+    "name": "Pilot Ridge Overlook",
+    "elevation": 4400,
+    "intro": "Excellent long range views.",
+    "link": "https://www.virtualblueridge.com/parkway-place/pilot-ridge-overlook/"
+  },
+  {
+    "id": "105",
+    "milepost": 302.1,
+    "name": "View Wilson Creek Valley Overlook",
+    "elevation": 4356,
+    "intro": "Excellent long range views of the valley formed from Wilson Creek. Wilson Creek is one of the streams originating on Grandfather Mountain.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-wilson-creek-valley/"
+  },
+  {
+    "id": "106",
+    "milepost": 302.8,
+    "name": "Rough Ridge Overlook",
+    "elevation": 4293,
+    "intro": "This is a very popular overlook along the Blue Ridge Parkway. It serve as a an access point for the Tanawha Trail that originates at Beacon Heights and ends at Price Lake. If you want to stretch your legs, it’s just a short hike south to one of the better views of the Linn Cove Viaduct",
+    "link": null
+  },
+  {
+    "id": "107",
+    "milepost": 303.6,
+    "name": "Wilson Creek Overlook",
+    "elevation": 4357,
+    "intro": "There is a trailhead at the northern end of this overlook that leads below the nearby bridge and down to Wilson Creek. Enjoy the crystal clear waters from one of the several streams that stem from Grandfather Mtn.",
+    "link": "https://www.virtualblueridge.com/parkway-place/wilson-creek-overlook/"
+  },
+  {
+    "id": "108",
+    "milepost": 303.9,
+    "name": "Yonahlossee Overlook",
+    "elevation": 4412,
+    "intro": "Long range views at the south end of this overlook. This is the last overlook before the Linn Cove Viaduct.",
+    "link": "https://www.virtualblueridge.com/parkway-place/yonahlossee-overlook/"
+  },
+  {
+    "id": "109",
+    "milepost": 305.2,
+    "name": "Beacon Heights Overlook",
+    "elevation": 4220,
+    "intro": "Beacon Heights Overlook, at Milepost 305.2 on the Blue Ridge Parkway, functions primarily as a parking area. To experience the overlook and stunning long-range views, visitors must hike the short but steep Beacon Heights Trail up 1,400 feet to the peak.",
+    "link": "https://www.virtualblueridge.com/parkway-place/beacon-heights-overlook/"
+  },
+  {
+    "id": "110",
+    "milepost": 306.6,
+    "name": "Grandfather Mountain Overlook",
+    "elevation": 4154,
+    "intro": "Grandfather Mountain offers spectacular views from the highest peak of the Blue Ridge. Grandfather is made of quartzite, which is known as one of the most durable rocks.",
+    "link": "https://www.virtualblueridge.com/parkway-place/grandfather-mountain-overlook/"
+  },
+  {
+    "id": "111",
+    "milepost": 310.0,
+    "name": "View Lost Cove Cliffs Overlook",
+    "elevation": 3812,
+    "intro": "There is an excellent view from this overlook that includes the Catawba Valley. The overlook is a good location to view the mysterious Brown Mountain Lights. On many evenings, out in the dark distance, pale orange lights seem to appear, move around and then fade.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-lost-cove-cliffs/"
+  },
+  {
+    "id": "112",
+    "milepost": 315.6,
+    "name": "Camp Creek Overlook",
+    "elevation": 3443,
+    "intro": "Camp Creek flows southward along with the parkway for three miles before the overlook. Camp Creek soon enters into the Linville River that flows through Linville Gorge. There is a short trail from the parking area that winds its way to the soothing sounds of Camp Creek.",
+    "link": "https://www.virtualblueridge.com/parkway-place/camp-creek-overlook/"
+  },
+  {
+    "id": "113",
+    "milepost": 318.4,
+    "name": "View North Toe River Valley Overlook",
+    "elevation": 3540,
+    "intro": "At this overlook the beautiful flowers, plants and trees of the Parkway surround visitors. Also known as the Spruce Pine District, this area is filled with an abundance of minerals below ground. Native American tribes would travel great distances to come to the area to dig for mica.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-north-toe-river-valley/"
+  },
+  {
+    "id": "114",
+    "milepost": 323.0,
+    "name": "Bear Den Overlook",
+    "elevation": 3359,
+    "intro": "Black bears no longer roam this area but once had dens here. This site overlooks a natural wooded amphitheater where the songs of native birds can be heard clearly from hundreds of feet below.",
+    "link": "https://www.virtualblueridge.com/parkway-place/bear-den-overlook/"
+  },
+  {
+    "id": "115",
+    "milepost": 325.9,
+    "name": "Heffner Gap Overlook",
+    "elevation": 3057,
+    "intro": "Beautiful views abound from this overlook. Visitors can see several mountains including Linville Mountain, Honeycutt Mountain and the flat-topped mountain Table Rock.",
+    "link": "https://www.virtualblueridge.com/parkway-place/heffner-gap-overlook/"
+  },
+  {
+    "id": "116",
+    "milepost": 327.3,
+    "name": "View North Cove Valley Overlook",
+    "elevation": 2815,
+    "intro": "At the base of Linville Mountain, Pepper Creek Valley leads into the North Cove community. Honeycutt Ridge is seen ahead, in front of Linville Mountain.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-north-cove-valley/"
+  },
+  {
+    "id": "117",
+    "milepost": 328.6,
+    "name": "The Loops Overlook",
+    "elevation": 2980,
+    "intro": "From the overlook you can see some of the magnificent mountain ranges of the Blue Ridge Parkway. Visitors will also see part of the Clinchfield Railroad that makes its way through the Appalachians.",
+    "link": "https://www.virtualblueridge.com/parkway-place/the-loops-overlook/"
+  },
+  {
+    "id": "118",
+    "milepost": 329.8,
+    "name": "View Table Rock Overlook",
+    "elevation": 2870,
+    "intro": "Miles beyond the range of hearing is one of the Parkway’s finest, if more distant, views of Table Rock, its tilted summit rising behind the remarkably long, level crest line of Linville Mountain.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-table-rock/"
+  },
+  {
+    "id": "119",
+    "milepost": 337.2,
+    "name": "Deer Lick Gap Overlook",
+    "elevation": 3452,
+    "intro": "Beautiful trees abound at this overlook ranging from oak, birch, ash, poplar, maple and pine. The large mountain in the foreground is Wood Mountain.",
+    "link": "https://www.virtualblueridge.com/parkway-place/deer-lick-gap-overlook/"
+  },
+  {
+    "id": "120",
+    "milepost": 338.8,
+    "name": "Three Knob Overlook",
+    "elevation": 3880,
+    "intro": "The view from this overlook is sensational. The Seven Mile Ridge seems to stretch forever with slopes and ridges filling the foreground. The impressive Black Mountains loom high above Seven Mile Ridge in the background.",
+    "link": "https://www.virtualblueridge.com/parkway-place/three-knob-overlook/"
+  },
+  {
+    "id": "121",
+    "milepost": 342.2,
+    "name": "Black Mountains Overlook",
+    "elevation": 3892,
+    "intro": "The majestic Black Mountains tower above visitors toward the sky from this overlook. The Black Mountains received their name from the dark green coat of Fraser fir and red spruce.",
+    "link": "https://www.virtualblueridge.com/parkway-place/black-mountains-overlook/"
+  },
+  {
+    "id": "122",
+    "milepost": 345.3,
+    "name": "Singecat Ridge Overlook",
+    "elevation": 3406,
+    "intro": "There is a nice view from this overlook (pronounced “sinj-cat”) that includes Mackey Mountain to the right and Onion Knob to the left. Visitors cannot see Singecat Ridge from the overlook because it lies behind Onion Knob. A sharp flavored onion grows each spring on Onion Knob. The true origin of the name Singecat Ridge is not known, but the ridge was singed by a fire in 1955. New growth has recovered the once bare ridge.",
+    "link": "https://www.virtualblueridge.com/parkway-place/singecat-ridge-overlook/"
+  },
+  {
+    "id": "123",
+    "milepost": 349.2,
+    "name": "Licklog Ridge Overlook",
+    "elevation": 4602,
+    "intro": "This overlook provides one of the best views the Parkway has to offer. To the left is the majestic Grandfather Mountain. The outlines of Linville Mountain, Hawksbill and Table Rock are visible in the distance. Straight ahead from the overlook is Mackey Mountain and Chestnut Wood Mountain.",
+    "link": "https://www.virtualblueridge.com/parkway-place/licklog-ridge-overlook/"
+  },
+  {
+    "id": "124",
+    "milepost": 349.9,
+    "name": "View Mt. Mitchell Overlook",
+    "elevation": 4821,
+    "intro": "Mt. Mitchell rises above the overlook and offers the highest peak in the Eastern United States. The mountain is named for Elisha Mitchell. Mt. Mitchell rises to a height of 6684 feet. Mt. Mitchell State Park is located 4.8 miles from the Parkway and provides a nature museum, trails, campground and restaurant.",
+    "link": null
+  },
+  {
+    "id": "125",
+    "milepost": 350.5,
+    "name": "Green Knob Overlook",
+    "elevation": 4761,
+    "intro": "The view from the overlook is splendid into the valley and Catawba River area. The Catawba Indians made their home near the river where they hunted and farmed. The Green Knob is located behind the overlook.",
+    "link": "https://www.virtualblueridge.com/parkway-place/green-knob-overlook/"
+  },
+  {
+    "id": "126",
+    "milepost": 355.3,
+    "name": "Ridge Junction Overlook",
+    "elevation": 5160,
+    "intro": "There are beautiful panoramic views from the Ridge Junction Overlook. The view of the Black Mountains and the South Toe Valley provide an inspiring sight. This overlook marks a section of the Asheville Watershed. The mountain streams empty into reservoirs for the surrounding area.",
+    "link": "https://www.virtualblueridge.com/parkway-place/ridge-junction-overlook/"
+  },
+  {
+    "id": "127",
+    "milepost": 359.8,
+    "name": "Balsam Gap Overlook",
+    "elevation": 5320,
+    "intro": "The area resembles a more northern forest with red spruce and Fraser fir standing high above the land. The Balsam Gap is where the Black Mountains and the Great Craggies connect.",
+    "link": null
+  },
+  {
+    "id": "128",
+    "milepost": 361.2,
+    "name": "View Glassmine Falls Overlook",
+    "elevation": 5197,
+    "intro": "During wet weather, Glassmine falls plummet down the face of Horse Range Ridge. Mica was once mined near the falls and was referred to as glass by the locals, hence the name.",
+    "link": null
+  },
+  {
+    "id": "129",
+    "milepost": 363.4,
+    "name": "View Graybeard Mountain Overlook",
+    "elevation": 5592,
+    "intro": "The site is located between Craggy Dome (elev. 6085) and Bullhead (elev. 5925) and has been known as the Peach Orchard because of the yellow buckeye, yellow birch and beech trees growing here.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-graybeard-mountain/"
+  },
+  {
+    "id": "130",
+    "milepost": 364.1,
+    "name": "View Craggy Dome Overlook",
+    "elevation": 5640,
+    "intro": "The Gardens are named for the beds of Catawba rhododendron that cover the area. June and July are the months to visit this spectacular showplace of flora and other late-blooming wildflowers.",
+    "link": null
+  },
+  {
+    "id": "131",
+    "milepost": 372.1,
+    "name": "View Lane Pinnacle Overlook",
+    "elevation": 3890,
+    "intro": "Named for Charles Lane, the first owner of the pinnacle. Lane established an iron mine on the north slope. Lane Pinnacle is to the far left; to the far right are the Swannanoa Mountains. Straight ahead in the distance are the great Craggys.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-lane-pinnacle/"
+  },
+  {
+    "id": "132",
+    "milepost": 373.8,
+    "name": "View Bull Creek Valley Overlook",
+    "elevation": 3483,
+    "intro": "The Bull Creek Valley lies down below with the Swannanoa Mountains in the distance. From here visitors may see what was once the home of the great bull buffalo.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-bull-creek-valley/"
+  },
+  {
+    "id": "133",
+    "milepost": 393.8,
+    "name": "French Broad Overlook",
+    "elevation": 2100,
+    "intro": "The French Broad River is one of the few north-flowing rivers in the United States. The river is a prominent figure in the development and history of Western North Carolina.",
+    "link": "https://www.virtualblueridge.com/parkway-place/french-broad-overlook/"
+  },
+  {
+    "id": "134",
+    "milepost": 396.4,
+    "name": "Walnut Cove Overlook",
+    "elevation": 2915,
+    "intro": "Black Walnut trees, although sparse among the other mountain hardwoods, are found in abundance in the aptly named Walnut Cove. Mountain Black Walnut was important to the locals to make furniture and gunstocks as well as for dye still used by present day crafters.",
+    "link": "https://www.virtualblueridge.com/parkway-place/walnut-cove-overlook/"
+  },
+  {
+    "id": "135",
+    "milepost": 397.3,
+    "name": "   Sleepy Gap Parking Area Overlook",
+    "elevation": 2930,
+    "intro": "The gap simply got its name because a hunter laid down and went to sleep there. Long ago, it was known as a good place for working woodsmen to camp.",
+    "link": "https://www.virtualblueridge.com/parkway-place/sleepy-gap-parking-area/"
+  },
+  {
+    "id": "136",
+    "milepost": 398.3,
+    "name": "View Chestnut Cove Overlook",
+    "elevation": 3035,
+    "intro": "Chestnut trees once thrived in this area, but the trees were almost completely wiped out in the 1930s by a fungus blight. Chestnut sprouts can be found near this site trying to make a comeback.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-chestnut-cove/"
+  },
+  {
+    "id": "137",
+    "milepost": 399.7,
+    "name": "Bad Fork Valley Overlook",
+    "elevation": 3350,
+    "intro": "The Bad Fork Overlook provides outstanding long range views from the Parkway. During autumn the vibrant colors of the leaves are a sight to behold.",
+    "link": "https://www.virtualblueridge.com/parkway-place/bad-fork-valley-overlook/"
+  },
+  {
+    "id": "138",
+    "milepost": 401.1,
+    "name": "Wash Creek Valley Overlook",
+    "elevation": 3435,
+    "intro": "Wash Creek is below the overlook. During heavy rain the creek rises and flows out to create a “wash.”",
+    "link": "https://www.virtualblueridge.com/parkway-place/wash-creek-valley-overlook/"
+  },
+  {
+    "id": "139",
+    "milepost": 401.7,
+    "name": "Beaver Dam Gap Overlook",
+    "elevation": 3570,
+    "intro": "Beavers were plentiful before 1900 in this area. Beaver Dam Creek flows north from the gap to the French Broad River.",
+    "link": "https://www.virtualblueridge.com/parkway-place/beaver-dam-gap-overlook/"
+  },
+  {
+    "id": "140",
+    "milepost": 402.6,
+    "name": "View Stony Bald Overlook",
+    "elevation": 3750,
+    "intro": "All Parkway visitors may enjoy scenic views of surging mountain ranges from the Stoney Bald Overlook.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-stony-bald/"
+  },
+  {
+    "id": "141",
+    "milepost": 403.6,
+    "name": "Big Ridge Overlook",
+    "elevation": 3820,
+    "intro": "The Big Ridge to the right rises above the overlook then swiftly heads down into the beautiful valley below.",
+    "link": "https://www.virtualblueridge.com/parkway-place/big-ridge-overlook/"
+  },
+  {
+    "id": "142",
+    "milepost": 404.2,
+    "name": "View Hominy Valley Overlook",
+    "elevation": 3980,
+    "intro": "This overlook gives a picturesque view of the rural mountain community west of Asheville. The overlook offers a peaceful look into the area below.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-hominy-valley/"
+  },
+  {
+    "id": "143",
+    "milepost": 404.5,
+    "name": "Mills River Valley Overlook",
+    "elevation": 4085,
+    "intro": "Mills River was named for William Mills who lived in this area during the late 1700s and early 1800s. Mills was a hunter and reported the last elk to be seen in North Carolina. Elk are now being reintroduced in the mountains of North Carolina and Tennessee.",
+    "link": "https://www.virtualblueridge.com/parkway-place/mills-river-valley-overlook/"
+  },
+  {
+    "id": "144",
+    "milepost": 407.6,
+    "name": "Mount Pisgah Overlook",
+    "elevation": 5721,
+    "intro": "The peak of Mount Pisgah, once part of the Biltmore Estate, can be reached by a winding trail from the parking area. The estate became home of the first U.S. forestry school, as well as the heart of the Pisgah National Forest.",
+    "link": "https://www.virtualblueridge.com/parkway-place/mount-pisgah-overlook/"
+  },
+  {
+    "id": "145",
+    "milepost": 409.3,
+    "name": "View Funnel Top Overlook",
+    "elevation": 4925,
+    "intro": "This overlook provides exceptional long range views into the distance. From the overlook, you will look down upon Funnel Top Mountain. The numerous peaks and ridges of the mountain create a landscape worthy of stopping and enjoying on a trip along the Blue Ridge Parkway.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-funnel-top/"
+  },
+  {
+    "id": "146",
+    "milepost": 411,
+    "name": "Cradle of Forestry Overlook",
+    "elevation": 4710,
+    "intro": "In the late 1800s George Vanderbilt bought a very large portion of the Pisgah wilderness. Vanderbilt was an early conservationist who wanted to preserve the natural beauty of the area and create a vast game preserve. Dr. Carl Alwin Schenck, a German forestry professor, was hired by Vanderbilt to manage his property and start a forestry school. The first School of American Forestry was operated from 1898 to 1913. Schenck trained 300 foresters. The U.S. Forest Service has recognized the importance of the early pioneering conservation effort and has made a considerable investment in replicating the school and providing exhibits to show early forestry practices.",
+    "link": "https://www.virtualblueridge.com/parkway-place/cradle-of-forestry-overlook/"
+  },
+  {
+    "id": "147",
+    "milepost": 411.9,
+    "name": "View Cold Mountain Overlook",
+    "elevation": 4542,
+    "intro": "At 6030 feet, the temperature on Cold Mountain has dropped more than 20 degrees below zero. Also notable for the award-winning and best-selling book about Civil War-era Appalachia that bears its name.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-cold-mountain/"
+  },
+  {
+    "id": "148",
+    "milepost": 413.2,
+    "name": "Pounding Mill Overlook",
+    "elevation": 4700,
+    "intro": "More than a century ago, mountain people would build a hammer type mill to grind corn. The mills were water powered and built along streams such as Pounding Mill Branch.",
+    "link": "https://www.virtualblueridge.com/parkway-place/pounding-mill-overlook/"
+  },
+  {
+    "id": "149",
+    "milepost": 415.7,
+    "name": "View Cherry Cove Overlook",
+    "elevation": 4327,
+    "intro": "Because of favorable conditions, the Black Cherry trees grow up to 100 feet in the cove, compared to about 50 feet in the lowlands. In the early fall, thousands of birds are attracted by the ripened cherries on the trees.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-cherry-cove/"
+  },
+  {
+    "id": "150",
+    "milepost": 416.3,
+    "name": "Log Hollow Overlook",
+    "elevation": 4445,
+    "intro": "In the 1880s, loggers cut down thousands of trees on the surrounding slopes. Using tools called cant-hooks, the lumberjacks would slide the logs down the slopes to the hollow below. After the logs were slid into the creekbed, men would open dams from nearby streams to create a flood of water to carry the logs to the lumber mill.",
+    "link": "https://www.virtualblueridge.com/parkway-place/log-hollow-overlook/"
+  },
+  {
+    "id": "151",
+    "milepost": 417.0,
+    "name": "View Looking Glass Rock Overlook",
+    "elevation": 4492,
+    "intro": "One of the largest masses of granite in the Eastern United States, Looking Glass Rock gets its name from the shimmering effects of sunlight on its surface when wet. This is also an excellent location for rock climbing.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-looking-glass-rock/"
+  },
+  {
+    "id": "152",
+    "milepost": 418.3,
+    "name": "East Fork Overlook",
+    "elevation": 4995,
+    "intro": "Located here are the headwaters of the Pigeon River. Yellowstone Falls is a short distance away and gets its name from the yellowish moss covering the rocks. You can find U.S. Forest Service trail access to Shining Rock Wilderness Trail system here.",
+    "link": "https://www.virtualblueridge.com/parkway-place/east-fork-overlook/"
+  },
+  {
+    "id": "153",
+    "milepost": 418.8,
+    "name": "Graveyard Fields Overlook",
+    "elevation": 5120,
+    "intro": "Graveyard Fields, a short drive from Brevard, North Carolina, is jointly managed by the US Forest Service (Pisgah Ranger District) and the National Park Service ( Blue Ridge Parkway). Primarily access is from the Graveyard Fields Overlook at milepost 418.8 of the Blue Ridge Parkway. This area is listed as one of the most popular hiking areas in the Blue Ridge National Heritage Area.",
+    "link": "https://www.virtualblueridge.com/parkway-place/graveyard-fields/"
+  },
+  {
+    "id": "154",
+    "milepost": 419.4,
+    "name": "View John Rock Overlook",
+    "elevation": 5330,
+    "intro": "John Rock apparently got its name from a horse that fell to its death there. A trail leads to a close-up view of the bare rock.",
+    "link": "https://www.virtualblueridge.com/parkway-place/view-john-rock/"
+  },
+  {
+    "id": "155",
+    "milepost": 421.7,
+    "name": "Fetterbush Overlook",
+    "elevation": 5494,
+    "intro": "The Fetterbush is a member of the heath family of shrubs along with Rhododendron and Laurel. Because the branches are so densely tangled, even small animals are fettered from getting through.",
+    "link": "https://www.virtualblueridge.com/parkway-place/fetterbush-overlook/"
+  },
+  {
+    "id": "156",
+    "milepost": 422.4,
+    "name": "View Devil’s Courthouse Overlook",
+    "elevation": 5462,
+    "intro": "Looking up at the summit of Devil’s Courthouse from the overlook you can tell how it got it’s name. The rough and rocky summit has a devilish appearance. There are many folklore tells from the Cherokee to early mountain settlers that says the devil holds court in a cave within the mountain. There is a trail from the parking area to the summit with an inspiring panoramic view into the distant landscapes.",
+    "link": null
+  },
+  {
+    "id": "157",
+    "milepost": 422.8,
+    "name": "View Mt. Hardy",
+    "elevation": 5415,
+    "intro": "Mount Hardy is named for Dr. James F.E. Hardy. Hardy was an Asheville physician during the Civil War.",
+    "link": null
+  },
+  {
+    "id": "158",
+    "milepost": 423.5,
+    "name": "Courthouse Valley Overlook",
+    "elevation": 5362,
+    "intro": "It is easy to enjoy the spectacular long range views from this overlook. The Courthouse Valley below joins the flatlands of the French Broad River in the distance.",
+    "link": null
+  },
+  {
+    "id": "159",
+    "milepost": 424.4,
+    "name": "View Herrin Kno Overlook",
+    "elevation": 5510,
+    "intro": "Though misspelled, Herrin Knob was named after James Herren who owned land and operated a sawmill here.",
+    "link": null
+  },
+  {
+    "id": "158",
+    "milepost": 424.8,
+    "name": "Wolf Mountain Overlook",
+    "elevation": 5500,
+    "intro": "The valley below Wolf Mountain contains Wolf Lake. This area was home to large numbers of Timberwolves before 1900. By then, bounty hunters, farmers and cattlemen hunted the wolves to extinction.",
+    "link": null
+  },
+  {
+    "id": "159",
+    "milepost": 425.4,
+    "name": "View Rough Butt Bald Overlook",
+    "elevation": 5300,
+    "intro": "The distinct mountain ridges seen from the overlook make an extraordinary sight. Butt is a term describing how a mountain breaks off or “butts” off sharply.",
+    "link": null
+  },
+  {
+    "id": "160",
+    "milepost": 428.0,
+    "name": "Caney Fork Overlook",
+    "elevation": 5650,
+    "intro": "Caney Fork overlook provides inspiring views of the valley below and the tumbling mountain ranges in the background.",
+    "link": null
+  },
+  {
+    "id": "161",
+    "milepost": 428.5,
+    "name": "Beartrap Gap Overlook",
+    "elevation": 5580,
+    "intro": "Many early hunters used steel traps to catch bears. They were very large traps about 2-3 feet long and required standing on the lever type springs on both side of the toothed jaws in order to set the trap. The traps were set on bear trails and were camouflaged. An unlucky bear would spring the trap by stepping on it.",
+    "link": null
+  },
+  {
+    "id": "162",
+    "milepost": 430.7,
+    "name": "Cowee Mountains Overlook",
+    "elevation": 5950,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "163",
+    "milepost": 431.0,
+    "name": "Haywood-Jackson Overlook",
+    "elevation": 6020,
+    "intro": "The self-guided trail form this overlook leads to the peak of Richland Balsam. Straight ahead is the ridge line of the Balsam range. This ridge line forms a natural border between Haywood County on the far side and Jackson County on the near side.",
+    "link": null
+  },
+  {
+    "id": "164",
+    "milepost": 431.4,
+    "name": "Richland Balsam Overlook",
+    "elevation": 6053,
+    "intro": "This self-guiding trail walks you through the remains of a spruce-fir forest. The highest point of the Parkway is found here at 6053 feet. The overlook gives views of the southern Appalachians. From here the Cowees, Nantahalas and Plott balsams can be seen.",
+    "link": null
+  },
+  {
+    "id": "165",
+    "milepost": 432.7,
+    "name": "Lone Bald Overlook",
+    "elevation": 5635,
+    "intro": "At one time a red spruce, or he-balsam, stood on what was then known as Lone Balsam Mountain. One day the tree fell, and the mountain is now known as Lone Bald.",
+    "link": null
+  },
+  {
+    "id": "166",
+    "milepost": 433.3,
+    "name": "Roy Taylor Forest Overlook",
+    "elevation": 5580,
+    "intro": "A paved trail leads to this overlook.",
+    "link": null
+  },
+  {
+    "id": "167",
+    "milepost": 435.3,
+    "name": "View Doubletop Mountain Overlook",
+    "elevation": 5365,
+    "intro": "This parking area is situated on Flat Gap, which was used by loggers and hunters as a campsite in the 1800s. Below is Deep Ridge Creek where a Cherokee village was located up until 1781 when it was destroyed by whites. At that time the Cherokees were allied with England.",
+    "link": null
+  },
+  {
+    "id": "168",
+    "milepost": 435.7,
+    "name": "Licklog Gap Overlook",
+    "elevation": 5135,
+    "intro": "Before becoming part of the national forest, the grassy meadows of the region were used as pastures for herds of cattle. Cattlemen would put rocks of salt in holes or cut outs in logs.",
+    "link": null
+  },
+  {
+    "id": "169",
+    "milepost": 436.8,
+    "name": "Grassy Ridge Mine Overlook",
+    "elevation": 5250,
+    "intro": "Below the overlook is the remains of a mica mine which was operated until about 1950. Mica is deposited in very thin sheets and is a silvery brittle substance. Mica used to be important because of its insulating qualities and was used in a lot of electrical equipment. The development of plastics rendered mica obsolete.",
+    "link": null
+  },
+  {
+    "id": "170",
+    "milepost": 438.9,
+    "name": "View Steestachee Bald Overlook",
+    "elevation": 4780,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "171",
+    "milepost": 439.4,
+    "name": "Cove Field Ridge Overlook",
+    "elevation": 4620,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "172",
+    "milepost": 440.0,
+    "name": "View Village of Saunook Overlook",
+    "elevation": 4375,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "173",
+    "milepost": 440.9,
+    "name": "View Waynesville Overlook",
+    "elevation": 4110,
+    "intro": "Waynesville is seen below the Plott Balsam range. Legend says Waynesville was named for “Mad” Anthony Wayne, who served in the Revolutionary War.",
+    "link": null
+  },
+  {
+    "id": "174",
+    "milepost": 441.4,
+    "name": "Standing Rock Overlook",
+    "elevation": 3915,
+    "intro": "The abundant Fall colors at the Standing Rock overlook makes you want to be there enjoying them in person. The Standing Rock is at the south end of the parking area of the overlook. The huge rock seems out of place among all of the trees.",
+    "link": null
+  },
+  {
+    "id": "175",
+    "milepost": 442.2,
+    "name": "Balsam Gap Overlook",
+    "elevation": 442.2,
+    "intro": "The Balsam and other trees at Balsam Gap overlook loom high above you like they are trying to reach the sky. This area is a perfect place for a picnic, a good book, or to listen to the peaceful sounds of nature.",
+    "link": null
+  },
+  {
+    "id": "176",
+    "milepost": 444.6,
+    "name": "The Orchards Overlook",
+    "elevation": 3810,
+    "intro": "Apple orchards cover the bottomlands of Richland Creek.",
+    "link": null
+  },
+  {
+    "id": "177",
+    "milepost": 445.2,
+    "name": "View Mt. Lynn Lowry Overlook",
+    "elevation": 4000,
+    "intro": "The mountain was named for the daughter of Gen. Sumter Lowry. The evangelist Dr. Billy Graham dedicated the 60 foot cross at the mountain peak in 1962.",
+    "link": null
+  },
+  {
+    "id": "178",
+    "milepost": 446.0,
+    "name": "Woodfin Cascades Overlook",
+    "elevation": 4345,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "179",
+    "milepost": 452.1,
+    "name": "View Cranberry Ridge Overlook",
+    "elevation": 5475,
+    "intro": "The mountain cranberry is not like commercially grown cranberry plants. This plant is a shrub rather than the vine like commercial plant grown in bogs. In late summer the ripened berries attract large numbers of native birds.",
+    "link": null
+  },
+  {
+    "id": "180",
+    "milepost": 452.3,
+    "name": "Woolyback Overlook",
+    "elevation": 5425,
+    "intro": "A blanket of rhododendron and mountain laurel shrubs cover the low ridge to the right creating a wooly look.",
+    "link": null
+  },
+  {
+    "id": "181",
+    "milepost": 453.4,
+    "name": "View Hornbuckle Valley Overlook",
+    "elevation": 5105,
+    "intro": "The valley and creek were named after James Hornbuckle, a Cherokee indian who farmed the area. Hornbuckle served in the Union army during the Civil War. The Cherokees were divided in loyalty during the war; some fought for the Union and some for the Confederacy.",
+    "link": null
+  },
+  {
+    "id": "182",
+    "milepost": 454.4,
+    "name": "Thunder Struck Ridge Overlook",
+    "elevation": 4780,
+    "intro": "These exceptional mountain ranges almost disappear into the clouds. The clouds provide a different perspective on all of the beauty the Parkway has to offer. The Thunder Struck Ridge lies below the overlook at an elevation of 4,680 feet.",
+    "link": null
+  },
+  {
+    "id": "183",
+    "milepost": 455.1,
+    "name": "Fed Cove Overlook",
+    "elevation": 4550,
+    "intro": "A man named Fed had a cabin here and was able to live in peace in what was mostly Indian land at the time of the Civil War.",
+    "link": null
+  },
+  {
+    "id": "184",
+    "milepost": 457.9,
+    "name": "View Plott Balsam Overlook",
+    "elevation": 5020,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "185",
+    "milepost": 458.9,
+    "name": "Lickstone Ridge Overlook",
+    "elevation": 5150,
+    "intro": "The Lickstone Ridge tunnel here is 406-feet long. A lickstone was a smooth stone where settlers would spread salt for their livestock.",
+    "link": null
+  },
+  {
+    "id": "186",
+    "milepost": 459.5,
+    "name": "Bunches Bald Overlook",
+    "elevation": 4925,
+    "intro": "The tunnel is 290-feet long. The area was probably named after an early logger.",
+    "link": null
+  },
+  {
+    "id": "187",
+    "milepost": 460.8,
+    "name": "Jenkins Ridge Overlook",
+    "elevation": 4445,
+    "intro": "Another settler that was able to get along with the Cherokees was Jonas Jenkins who lived on the far side of the large ridge visible to the left.",
+    "link": null
+  },
+  {
+    "id": "188",
+    "milepost": 461.9,
+    "name": "Big Witch Overlook",
+    "elevation": 4160,
+    "intro": "The name comes from one of the last of the great Cherokee medicine men.",
+    "link": null
+  },
+  {
+    "id": "189",
+    "milepost": 463.9,
+    "name": "Thomas Divide Overlook",
+    "elevation": 3735,
+    "intro": null,
+    "link": null
+  },
+  {
+    "id": "190",
+    "milepost": 467.4,
+    "name": "   View Ballhoot Scar Overlook",
+    "elevation": 2550,
+    "intro": "Motorists stop along this overlook to absorb all of the brilliant Fall colors. The slashes down Ballhoot Scar are remnants of the paths trees took on their way to the sawmill. The men would yell “ballhoot” as a warning before the trees tumbled down the mountain.",
+    "link": null
+  },
+  {
+    "id": "191",
+    "milepost": 467.9,
+    "name": "View Raven Fork Overlook",
+    "elevation": 2400,
+    "intro": "Raven Fork enters the Oconaluftee River a mile downstream. The river bed was once used as a crossing known as Ravensford.",
+    "link": null
+  },
+  {
+    "id": "192",
+    "milepost": 468.4,
+    "name": "View Oconaluftee River Overlook",
+    "elevation": 2200,
+    "intro": "A Cherokee village once stood a few miles down river called “e-gwan-ul-ti” meaning “by the river.” After time, the pronunciation led to its current name.",
+    "link": null
+  }
+]

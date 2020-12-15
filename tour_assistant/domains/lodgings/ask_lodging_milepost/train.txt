@@ -1,0 +1,14 @@
+what is the milepost of this hotel?
+what is the milepost of this motel?
+what is the milepost of this inn?
+what is the milepost of the cabin?
+what is the milepost of the lodging?
+what is the milepost of it?
+what is the milepost of {Clarion Inn Biltmore Village|lodging}?
+show me the milepost of this hotel?
+show me the milepost of the motel?
+show me the milepost of this inn?
+show me the milepost of the cabin?
+show me the milepost of this lodging?
+show me the milepost of it?
+show me the milepost of {Baymont Inn Asheville|lodging}?

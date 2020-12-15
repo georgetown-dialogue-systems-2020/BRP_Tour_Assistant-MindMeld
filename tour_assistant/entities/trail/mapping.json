@@ -1,0 +1,524 @@
+{
+  "entities": [
+    {
+      "id": "1",
+      "cname": "Mountain Farm Trail",
+      "whitelist": ["Mountain Farm"]
+    },
+    {
+      "id": "2",
+      "cname": "Appalachian Trail",
+      "whitelist": ["Appalachian"]
+    },
+    {
+      "id": "3",
+      "cname": "Catoctin Loop Trail",
+      "whitelist": ["Catoctin Loop"]
+    },
+    {
+      "id": "4",
+      "cname": "Greenstone Trail",
+      "whitelist": ["Greenstone"]
+    },
+    {
+      "id": "5",
+      "cname": "The Priest",
+      "whitelist": ["Priest", "Priest Trail"]
+    },
+    {
+      "id": "6",
+      "cname": "White Rock Falls Trail Connection",
+      "whitelist": []
+    },
+    {
+      "id": "7",
+      "cname": "White Rock Falls Trail",
+      "whitelist": ["White Rock Falls"]
+    },
+    {
+      "id": "8",
+      "cname": "Big Spy Mountain",
+      "whitelist": ["Big Spy Mountain Trail"]
+    },
+    {
+      "id": "9",
+      "cname": "Yankee Horse",
+      "whitelist": ["Yankee Horse Trail"]
+    },
+    {
+      "id": "10",
+      "cname": "Boston Knob",
+      "whitelist": ["Boston Knob Trail"]
+    },
+    {
+      "id": "11",
+      "cname": "Indian Gap",
+      "whitelist": ["Indian Gap Trail"]
+    },
+    {
+      "id": "12",
+      "cname": "White Oak Flats",
+      "whitelist": ["White Oak Flats Trail"]
+    },
+    {
+      "id": "13",
+      "cname": "Otter Creek Trail",
+      "whitelist": ["Otter Creek"]
+    },
+    {
+      "id": "14",
+      "cname": "Otter Lake Trail",
+      "whitelist": ["Otter Lake"]
+    },
+    {
+      "id": "15",
+      "cname": "James River Trail",
+      "whitelist": ["James River"]
+    },
+    {
+      "id": "16",
+      "cname": "Trail of Trees Trail",
+      "whitelist": ["Trail of Trees"]
+    },
+    {
+      "id": "17",
+      "cname": "Thunder Ridge Trail",
+      "whitelist": ["Thunder Ridge"]
+    },
+    {
+      "id": "18",
+      "cname": "Apple Orchard Falls Trail",
+      "whitelist": ["Apple Orchard Falls"]
+    },
+    {
+      "id": "19",
+      "cname": "Onion Mountain Loop Trail",
+      "whitelist": ["Onion Mountain Loop"]
+    },
+    {
+      "id": "20",
+      "cname": "Fallingwater Cascades Trail",
+      "whitelist": ["Fallingwater Cascades"]
+    },
+    {
+      "id": "21",
+      "cname": "Flat Top Trail",
+      "whitelist": ["Flat Top"]
+    },
+    {
+      "id": "22",
+      "cname": "Cross Rock Trail",
+      "whitelist": ["Cross Rock"]
+    },
+    {
+      "id": "23",
+      "cname": "Abbott Lake Trail",
+      "whitelist": ["Abbott Lake"]
+    },
+    {
+      "id": "24",
+      "cname": "Elk Run Trail",
+      "whitelist": ["Elk Run"]
+    },
+    {
+      "id": "25",
+      "cname": "Johnson Farm Loop Trail",
+      "whitelist": ["Johnson Farm Loop"]
+    },
+    {
+      "id": "26",
+      "cname": "Harkening Hill Trail",
+      "whitelist": ["Harkening Hill"]
+    },
+    {
+      "id": "27",
+      "cname": "Balance Rock",
+      "whitelist": ["Balance Rock Trail"]
+    },
+    {
+      "id": "28",
+      "cname": "Sharp Top Trail",
+      "whitelist": ["Sharp Top"]
+    },
+    {
+      "id": "29",
+      "cname": "Spec Mine Trail",
+      "whitelist": ["Spec Mine"]
+    },
+    {
+      "id": "30",
+      "cname": "Stewarts Knob Trail",
+      "whitelist": ["Stewarts Knob"]
+    },
+    {
+      "id": "31",
+      "cname": "Roanoke River Trail",
+      "whitelist": ["Roanoke River"]
+    },
+    {
+      "id": "32",
+      "cname": "Roanoke Mountain Summit Trail",
+      "whitelist": ["Roanoke Mountain Summit"]
+    },
+    {
+      "id": "33",
+      "cname": "Chestnut Ridge Trail",
+      "whitelist": ["Chestnut Ridge"]
+    },
+    {
+      "id": "34",
+      "cname": "Roanoke Valley Horse Trail",
+      "whitelist": ["Roanoke Valley Horse"]
+    },
+    {
+      "id": "35",
+      "cname": "Buck Mountain Trail",
+      "whitelist": ["Buck Mountain"]
+    },
+    {
+      "id": "36",
+      "cname": "Smart View Loop Trail",
+      "whitelist": ["Smart View"]
+    },
+    {
+      "id": "37",
+      "cname": "Rock Castle Gorge Trail",
+      "whitelist": ["Rock Castle Gorge"]
+    },
+    {
+      "id": "38",
+      "cname": "Hardwood Cove Self-Guiding Nature Trail",
+      "whitelist": ["Hardwood Cove Self-Guiding Nature"]
+    },
+    {
+      "id": "39",
+      "cname": "Black Ridge Trail",
+      "whitelist": ["Black Ridge"]
+    },
+    {
+      "id": "40",
+      "cname": "Rocky Knob Picnic Loop Trail",
+      "whitelist": ["Rocky Knob Picnic"]
+    },
+    {
+      "id": "41",
+      "cname": "Mountain Industry Trail",
+      "whitelist": ["Mountain Industry"]
+    },
+    {
+      "id": "42",
+      "cname": "Round Meadow Creek Loop Trail",
+      "whitelist": ["Round Meadow Creek Loop"]
+    },
+    {
+      "id": "43",
+      "cname": "High Meadow Trail",
+      "whitelist": ["High Meadow"]
+    },
+    {
+      "id": "44",
+      "cname": "Fisher Peak Loop",
+      "whitelist": []
+    },
+    {
+      "id": "45",
+      "cname": "Cumberland Knob Trail",
+      "whitelist": ["Cumberland Knob"]
+    },
+    {
+      "id": "46",
+      "cname": "Gully Creek Trail",
+      "whitelist": ["Gully Creek"]
+    },
+    {
+      "id": "47",
+      "cname": "Fox Hunters Paradise Trail",
+      "whitelist": ["Fox Hunters Paradise"]
+    },
+    {
+      "id": "48",
+      "cname": "Little Glade Millpons",
+      "whitelist": []
+    },
+    {
+      "id": "49",
+      "cname": "Cedar Ridge Trail",
+      "whitelist": ["Cedar Ridge"]
+    },
+    {
+      "id": "50",
+      "cname": "Bluff Mountain Trail",
+      "whitelist": ["Bluff Mountain"]
+    },
+    {
+      "id": "51",
+      "cname": "Fodder Stack Trail",
+      "whitelist": ["Fodder Stack"]
+    },
+    {
+      "id": "52",
+      "cname": "Grassy Gap Fire Road",
+      "whitelist": ["Grassy Gap"]
+    },
+    {
+      "id": "53",
+      "cname": "Basin Creek Trail",
+      "whitelist": ["Basin Creek"]
+    },
+    {
+      "id": "54",
+      "cname": "Flat Rock Ridge Trail",
+      "whitelist": ["Flat Rock Ridge"]
+    },
+    {
+      "id": "55",
+      "cname": "Jumpingoff Rocks Trail",
+      "whitelist": ["Jumpingoff Rocks"]
+    },
+    {
+      "id": "56",
+      "cname": "The Lump Trail",
+      "whitelist": ["The Lump"]
+    },
+    {
+      "id": "57",
+      "cname": "Cascades Trail",
+      "whitelist": []
+    },
+    {
+      "id": "58",
+      "cname": "Tompkins Knob Trail",
+      "whitelist": ["Tompkins Knob"]
+    },
+    {
+      "id": "59",
+      "cname": "Rich Mountain Carriage, Horse, & Hiking Trail",
+      "whitelist": ["Rich Mountain Trail"]
+    },
+    {
+      "id": "60",
+      "cname": "Flat Top Mountain Carriage, Horse & Hiking Trail",
+      "whitelist": ["Flat Top Mountain Trail"]
+    },
+    {
+      "id": "61",
+      "cname": "Watkins Carriage, Horse & Hiking Trail",
+      "whitelist": ["Watkins Trail"]
+    },
+    {
+      "id": "62",
+      "cname": "Black Bottom Carriage, Horse, & Hiking Trail",
+      "whitelist": ["Black Bottom Trail"]
+    },
+    {
+      "id": "63",
+      "cname": "Bass Lake Carriage, Horse & Hiking Trail",
+      "whitelist": ["Bass Lake Trail"]
+    },
+    {
+      "id": "64",
+      "cname": "Deer Park Carriage, Horse, & Hiking Trail",
+      "whitelist": ["Deer Park Trail", "Deer Park"]
+    },
+    {
+      "id": "65",
+      "cname": "Maze Carriage Horse & Hiking Trail",
+      "whitelist": ["Maze Trail"]
+    },
+    {
+      "id": "66",
+      "cname": "Duncan Carriage, Horse, & Hiking Trail",
+      "whitelist": ["Duncan Trail"]
+    },
+    {
+      "id": "67",
+      "cname": "Rock Creek Bridge Carriage, Horse, & Hiking Trail",
+      "whitelist": ["Rock Creek Bridge Trail"]
+    },
+    {
+      "id": "68",
+      "cname": "Figure 8 Trail",
+      "whitelist": ["Figure 8", "Figure Eight"]
+    },
+    {
+      "id": "69",
+      "cname": "Trout Lake Hiking & Horse Trail",
+      "whitelist": ["Trout Lake Trail"]
+    },
+    {
+      "id": "70",
+      "cname": "Green Knob Trail",
+      "whitelist": ["Green Knob"]
+    },
+    {
+      "id": "71",
+      "cname": "Boone Fork Trail",
+      "whitelist": ["Boone Fork"]
+    },
+    {
+      "id": "72",
+      "cname": "Price Lake Loop Trail",
+      "whitelist": ["Price Lake Trail", "Price Lake Loop"]
+    },
+    {
+      "id": "73",
+      "cname": "Linn Cove Viaduct Access Trail",
+      "whitelist": ["Linn Cove Viaduct Access"]
+    },
+    {
+      "id": "74",
+      "cname": "Beacon Heights Trail",
+      "whitelist": ["Beacon Heights"]
+    },
+    {
+      "id": "75",
+      "cname": "Tanawha Trail",
+      "whitelist": ["Tanawha"]
+    },
+    {
+      "id": "76",
+      "cname": "Flat Rock Trail",
+      "whitelist": []
+    },
+    {
+      "id": "77",
+      "cname": "Camp Creek Trail",
+      "whitelist": ["Camp Creek"]
+    },
+    {
+      "id": "78",
+      "cname": "Linville Falls Trail",
+      "whitelist": ["Linville Falls"]
+    },
+    {
+      "id": "79",
+      "cname": "Linville Gorge Trail",
+      "whitelist": ["Linville Gorge"]
+    },
+    {
+      "id": "80",
+      "cname": "Duggers Creek Trail",
+      "whitelist": ["Duggers Creek"]
+    },
+    {
+      "id": "81",
+      "cname": "Linville River Bridge Trail",
+      "whitelist": ["Linville River Bridge"]
+    },
+    {
+      "id": "82",
+      "cname": "Chestoa View Trail",
+      "whitelist": ["Chestoa View"]
+    },
+    {
+      "id": "83",
+      "cname": "Crabtree Falls Loop Trail",
+      "whitelist": ["Crabtree Falls Trail", "Crabtree Falls Loop"]
+    },
+    {
+      "id": "84",
+      "cname": "Woods Mountain Trail",
+      "whitelist": ["Woods Mountain"]
+    },
+    {
+      "id": "85",
+      "cname": "Lost Cove Ridge Trail",
+      "whitelist": ["Lost Cove Ridge"]
+    },
+    {
+      "id": "86",
+      "cname": "Deep Gap Trail",
+      "whitelist": ["Deep Gap"]
+    },
+    {
+      "id": "87",
+      "cname": "Bald Knob Ridge Trail",
+      "whitelist": ["Bald Knob Ridge"]
+    },
+    {
+      "id": "88",
+      "cname": "Big Butt Trail",
+      "whitelist": ["Big Butt"]
+    },
+    {
+      "id": "89",
+      "cname": "Glassmine Falls",
+      "whitelist": []
+    },
+    {
+      "id": "90",
+      "cname": "Craggy Pinnacle Trail",
+      "whitelist": ["Craggy Pinnacle"]
+    },
+    {
+      "id": "91",
+      "cname": "Craggy Gardens Trail",
+      "whitelist": ["Craggy Gardens"]
+    },
+    {
+      "id": "92",
+      "cname": "Rattlesnake Lodge Trail",
+      "whitelist": ["Rattlesnake Lodge"]
+    },
+    {
+      "id": "93",
+      "cname": "Mountain-to-Sea Trail",
+      "whitelist": []
+    },
+    {
+      "id": "94",
+      "cname": "Shut-In Trail",
+      "whitelist": ["Shut-In"]
+    },
+    {
+      "id": "95",
+      "cname": "Mt. Pisgah Trail",
+      "whitelist": ["Mountain Pisgah Trail"]
+    },
+    {
+      "id": "96",
+      "cname": "Frying Pan Mountain Trail",
+      "whitelist": ["Frying Pan Mountain"]
+    },
+    {
+      "id": "97",
+      "cname": "East Fork Trail",
+      "whitelist": ["East Fork"]
+    },
+    {
+      "id": "98",
+      "cname": "Graveyard Fields Loop Trail",
+      "whitelist": ["Graveyard Fields Trail", "Graveyard Fields"]
+    },
+    {
+      "id": "99",
+      "cname": "John Rock Trail",
+      "whitelist": ["John Rock"]
+    },
+    {
+      "id": "100",
+      "cname": "Devil’s Courthouse Trail",
+      "whitelist": ["Devil’s Courthouse"]
+    },
+    {
+      "id": "101",
+      "cname": "Bear Pen Gap Trail",
+      "whitelist": ["Bear Pen Gap"]
+    },
+    {
+      "id": "102",
+      "cname": "Richland Balsam Trail",
+      "whitelist": ["Richland Balsam"]
+    },
+    {
+      "id": "103",
+      "cname": "Toy Taylor Overlook Trail",
+      "whitelist": ["Toy Taylor Overlook"]
+    },
+    {
+      "id": "104",
+      "cname": "Waterrock Knob Trail",
+      "whitelist": ["Waterrock Knob"]
+    }
+  ]
+}
