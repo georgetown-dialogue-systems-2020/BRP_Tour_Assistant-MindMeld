@@ -9,6 +9,8 @@ You can follow the guide in the MindMeld [documentation](https://www.mindmeld.co
 
 ## Quick Start
 
+All codes used to run the system are included in the `tour_assistant/` folder.
+
 Assuming you have installed all the pre-requisites, make sure to run Elasticsearch in the very beginning.
 ```bash
 ./elasticsearch-7.8.0/bin/elasticsearch
@@ -32,3 +34,7 @@ Now, it is all set. Use `converse` to communicate with the system.
 ```bash
 python -m tour_assistant converse
 ```
+
+## Note
+
+The final project report and a demo video are included in the `COSC483_Final_project/` folder.
